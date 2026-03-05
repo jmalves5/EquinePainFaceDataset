@@ -1,0 +1,4676 @@
+{
+    "S1.mp4": [
+        {
+            "Code": "VC71R",
+            "Duration (s)": 28.63,
+            "Start time": "00:00:00.000",
+            "End time": "00:00:28.633"
+        },
+        {
+            "Code": "VC72R",
+            "Duration (s)": 28.63,
+            "Start time": "00:00:00.000",
+            "End time": "00:00:28.633"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 1.82,
+            "Start time": "00:00:00.100",
+            "End time": "00:00:01.920"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.3,
+            "Start time": "00:00:00.220",
+            "End time": "00:00:00.517"
+        },
+        {
+            "Code": "AU101",
+            "Duration (s)": 1.48,
+            "Start time": "00:00:00.470",
+            "End time": "00:00:01.950"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 0.18,
+            "Start time": "00:00:01.874",
+            "End time": "00:00:02.054"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.37,
+            "Start time": "00:00:01.930",
+            "End time": "00:00:02.300"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.71,
+            "Start time": "00:00:02.290",
+            "End time": "00:00:03.000"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.76,
+            "Start time": "00:00:02.300",
+            "End time": "00:00:03.060"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.96,
+            "Start time": "00:00:02.320",
+            "End time": "00:00:04.280"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 1.92,
+            "Start time": "00:00:03.920",
+            "End time": "00:00:05.820"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 12.29,
+            "Start time": "00:00:04.370",
+            "End time": "00:00:16.660"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.82,
+            "Start time": "00:00:07.420",
+            "End time": "00:00:08.240"
+        },
+        {
+            "Code": "EAD104",
+            "Duration (s)": 0.83,
+            "Start time": "00:00:08.470",
+            "End time": "00:00:09.300"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.75,
+            "Start time": "00:00:11.050",
+            "End time": "00:00:11.800"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 2.43,
+            "Start time": "00:00:14.450",
+            "End time": "00:00:16.880"
+        },
+        {
+            "Code": "EAD101",
+            "Duration (s)": 0.56,
+            "Start time": "00:00:15.580",
+            "End time": "00:00:16.149"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 8.1,
+            "Start time": "00:00:17.070",
+            "End time": "00:00:25.170"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.43,
+            "Start time": "00:00:21.410",
+            "End time": "00:00:21.840"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 3.57,
+            "Start time": "00:00:21.770",
+            "End time": "00:00:25.340"
+        },
+        {
+            "Code": "AD133",
+            "Duration (s)": 3.53,
+            "Start time": "00:00:22.140",
+            "End time": "00:00:25.670"
+        },
+        {
+            "Code": "AD57",
+            "Duration (s)": 1.85,
+            "Start time": "00:00:23.900",
+            "End time": "00:00:25.750"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.9,
+            "Start time": "00:00:24.760",
+            "End time": "00:00:25.660"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.46,
+            "Start time": "00:00:25.330",
+            "End time": "00:00:25.795"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 4.94,
+            "Start time": "00:00:25.460",
+            "End time": "00:00:30.400"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 4.82,
+            "Start time": "00:00:25.580",
+            "End time": "00:00:30.400"
+        },
+        {
+            "Code": "EAD104",
+            "Duration (s)": 0.44,
+            "Start time": "00:00:25.960",
+            "End time": "00:00:26.400"
+        },
+        {
+            "Code": "AD19",
+            "Duration (s)": 0.38,
+            "Start time": "00:00:26.020",
+            "End time": "00:00:26.400"
+        },
+        {
+            "Code": "AD81",
+            "Duration (s)": 1.7,
+            "Start time": "00:00:26.850",
+            "End time": "00:00:28.550"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 3.35,
+            "Start time": "00:00:26.970",
+            "End time": "00:00:30.320"
+        }
+    ],
+    "S2.mp4": [
+        {
+            "Code": "VC70R",
+            "Duration (s)": 30.16,
+            "Start time": "00:00:00.000",
+            "End time": "00:00:30.160"
+        },
+        {
+            "Code": "VC71R",
+            "Duration (s)": 30.16,
+            "Start time": "00:00:00.000",
+            "End time": "00:00:30.160"
+        },
+        {
+            "Code": "VC72R",
+            "Duration (s)": 30.16,
+            "Start time": "00:00:00.000",
+            "End time": "00:00:30.160"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.62,
+            "Start time": "00:00:00.000",
+            "End time": "00:00:01.620"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 1.15,
+            "Start time": "0:00:00.640",
+            "End time": "0:00:01.150"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.29,
+            "Start time": "00:00:01.580",
+            "End time": "00:00:01.870"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 3.66,
+            "Start time": "00:00:01.730",
+            "End time": "00:00:05.390"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 3.19,
+            "Start time": "00:00:01.920",
+            "End time": "00:00:05.110"
+        },
+        {
+            "Code": "AD19",
+            "Duration (s)": 0.51,
+            "Start time": "00:00:02.030",
+            "End time": "00:00:02.540"
+        },
+        {
+            "Code": "AU10",
+            "Duration (s)": 0.21,
+            "Start time": "00:00:02.020",
+            "End time": "00:00:02.230"
+        },
+        {
+            "Code": "AD81",
+            "Duration (s)": 0.83,
+            "Start time": "00:00:02.450",
+            "End time": "00:00:03.280"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.54,
+            "Start time": "00:00:02.31",
+            "End time": "00:00:02.850"
+        },
+        {
+            "Code": "AU18",
+            "Duration (s)": 2.84,
+            "Start time": "00:00:02.490",
+            "End time": "00:00:05.33"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.25,
+            "Start time": "00:00:02.740",
+            "End time": "00:00:02.990"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.26,
+            "Start time": "00:00:02.98",
+            "End time": "00:00:03.240"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 1.14,
+            "Start time": "00:00:03.610",
+            "End time": "00:00:4.75"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.32,
+            "Start time": "00:00:03.690",
+            "End time": "00:00:4.010"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.44,
+            "Start time": "00:00:04.92",
+            "End time": "00:00:5.360"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.37,
+            "Start time": "00:00:05.220",
+            "End time": "00:00:5.590"
+        },
+        {
+            "Code": "AD19",
+            "Duration (s)": 0.49,
+            "Start time": "00:00:05.350",
+            "End time": "00:00:5.840"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.12,
+            "Start time": "00:00:05.440",
+            "End time": "00:00:05.560"
+        },
+        {
+            "Code": "AD54",
+            "Duration (s)": 0.5,
+            "Start time": "00:00:05.450",
+            "End time": "00:00:05.950"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 1.72,
+            "Start time": "00:00:05.520",
+            "End time": "00:00:07.240"
+        },
+        {
+            "Code": "Uncodable",
+            "Duration (s)": 0.29,
+            "Start time": "00:00:05.830",
+            "End time": "00:00:06.120"
+        },
+        {
+            "Code": "AD81",
+            "Duration (s)": 0.44,
+            "Start time": "00:00:05.870",
+            "End time": "00:00:06.310"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.42,
+            "Start time": "00:00:05.970",
+            "End time": "00:00:06.390"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 1.26,
+            "Start time": "00:00:05.980",
+            "End time": "00:00:07.240"
+        },
+        {
+            "Code": "AD53",
+            "Duration (s)": 0.73,
+            "Start time": "00:00:06.050",
+            "End time": "00:00:06.780"
+        },
+        {
+            "Code": "EAD101",
+            "Duration (s)": 0.6,
+            "Start time": "00:00:06.820",
+            "End time": "00:00:07.420"
+        },
+        {
+            "Code": "AU18",
+            "Duration (s)": 0.99,
+            "Start time": "00:00:06.210",
+            "End time": "00:00:07.200"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.5,
+            "Start time": "00:00:06.770",
+            "End time": "00:00:07.270"
+        },
+        {
+            "Code": "AD57",
+            "Duration (s)": 1.39,
+            "Start time": "00:00:06.790",
+            "End time": "00:00:08.180"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 0.4,
+            "Start time": "00:00:07.300",
+            "End time": "00:00:07.700"
+        },
+        {
+            "Code": "Uncodable",
+            "Duration (s)": 0.27,
+            "Start time": "00:00:07.320",
+            "End time": "00:00:07.590"
+        },
+        {
+            "Code": "EAD104",
+            "Duration (s)": 0.46,
+            "Start time": "00:00:07.380",
+            "End time": "00:00:07.840"
+        },
+        {
+            "Code": "AU47",
+            "Duration (s)": 0.21,
+            "Start time": "00:00:07.290",
+            "End time": "00:00:07.500"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.53,
+            "Start time": "00:00:08.660",
+            "End time": "00:00:09.190"
+        },
+        {
+            "Code": "AU18",
+            "Duration (s)": 0.53,
+            "Start time": "00:00:08.970",
+            "End time": "00:00:09.500"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 1.71,
+            "Start time": "00:00:08.730",
+            "End time": "00:00:10.440"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.36,
+            "Start time": "00:00:08.490",
+            "End time": "00:00:08.850"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.37,
+            "Start time": "00:00:08.930",
+            "End time": "00:00:09.300"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.32,
+            "Start time": "00:00:08.910",
+            "End time": "00:00:10.230"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.41,
+            "Start time": "00:00:08.920",
+            "End time": "00:00:09.330"
+        },
+        {
+            "Code": "AU113",
+            "Duration (s)": 0.24,
+            "Start time": "00:00:09.600",
+            "End time": "00:00:09.84"
+        },
+        {
+            "Code": "VC74",
+            "Duration (s)": 0.67,
+            "Start time": "00:00:10.170",
+            "End time": "00:00:10.84"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.33,
+            "Start time": "00:00:10.240",
+            "End time": "00:00:10.570"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 2.07,
+            "Start time": "00:00:11.520",
+            "End time": "00:00:13.590"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.29,
+            "Start time": "00:00:12.150",
+            "End time": "00:00:12.440"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.23,
+            "Start time": "00:00:13.910",
+            "End time": "00:00:14.140"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.2,
+            "Start time": "00:00:13.630",
+            "End time": "00:00:13.830"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.22,
+            "Start time": "00:00:13.500",
+            "End time": "00:00:13.720"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.4,
+            "Start time": "00:00:13.830",
+            "End time": "00:00:14.230"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.34,
+            "Start time": "00:00:13.820",
+            "End time": "00:00:14.290"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.47,
+            "Start time": "00:00:13.880",
+            "End time": "00.00:14.350"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 1.27,
+            "Start time": "00:00:13.920",
+            "End time": "00:00:15.190"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 0.91,
+            "Start time": "00:00:14.060",
+            "End time": "00:00:14.970"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 2.03,
+            "Start time": "00:00:14.110",
+            "End time": "00:00:16.140"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.39,
+            "Start time": "00:00:14.100",
+            "End time": "00:00:14.490"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.31,
+            "Start time": "00:00:16.080",
+            "End time": "00:00:16.390"
+        },
+        {
+            "Code": "AD54",
+            "Duration (s)": 0.76,
+            "Start time": "00:00:16.280",
+            "End time": "00:00:17.040"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.56,
+            "Start time": "00:00:16.450",
+            "End time": "00:00:18.010"
+        },
+        {
+            "Code": "AU113",
+            "Duration (s)": 0.38,
+            "Start time": "00:00:16.950",
+            "End time": "00:00:17.330"
+        },
+        {
+            "Code": "AD53",
+            "Duration (s)": 0.83,
+            "Start time": "00:00:18.020",
+            "End time": "00:00:18.850"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.18,
+            "Start time": "00:00:18.230",
+            "End time": "00:00:18.410"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 2.85,
+            "Start time": "00:00:18.640",
+            "End time": "00:00:21.500"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 1.08,
+            "Start time": "00:00:18.580",
+            "End time": "00:00:19.660"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 1.68,
+            "Start time": "00:00:18.640",
+            "End time": "00:00:20.320"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 5.07,
+            "Start time": "00:00:19.740",
+            "End time": "00:00:24.810"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.45,
+            "Start time": "00:00:18.690",
+            "End time": "00:00:19.140"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.46,
+            "Start time": "00:00:19.520",
+            "End time": "00:00:19.980"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 2.2,
+            "Start time": "00:00:21.870",
+            "End time": "00:00:24.070"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 1.93,
+            "Start time": "00:00:21.780",
+            "End time": "00:00:23.710"
+        },
+        {
+            "Code": "AU113",
+            "Duration (s)": 0.38,
+            "Start time": "00:00:22.410",
+            "End time": "00:00:22.790"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 1.94,
+            "Start time": "00:00:22.990",
+            "End time": "00:00:24.930"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.37,
+            "Start time": "00:00:23.230",
+            "End time": "00:00:23.600"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.24,
+            "Start time": "00:00:23.670",
+            "End time": "00:00:23.910"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.3,
+            "Start time": "00:00:23.870",
+            "End time": "00:00:24.17"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.34,
+            "Start time": "00:00:24.900",
+            "End time": "00:00:25.240"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 1.34,
+            "Start time": "00:00:21.800",
+            "End time": "00:00:23.140"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.3,
+            "Start time": "00:00:25.290",
+            "End time": "00:00:25.590"
+        },
+        {
+            "Code": "AU18",
+            "Duration (s)": 0.37,
+            "Start time": "00:00:25.390",
+            "End time": "00:00:25.760"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.43,
+            "Start time": "00:00:26.550",
+            "End time": "00:00:26.980"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.31,
+            "Start time": "00:00:27.160",
+            "End time": "00:00:27.470"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 1.94,
+            "Start time": "00:00:28.450",
+            "End time": "00:00:30.390"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.22,
+            "Start time": "00:00:28.590",
+            "End time": "00:00:28.810"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.78,
+            "Start time": "00:00:28.830",
+            "End time": "00:00:30.610"
+        },
+        {
+            "Code": "AU18",
+            "Duration (s)": 0.38,
+            "Start time": "00:00:29.100",
+            "End time": "00:00:29.480"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.32,
+            "Start time": "00:00:28.720",
+            "End time": "00:00:29.040"
+        }
+    ],
+    "S3.mp4": [
+        {
+            "Code": "VC72R",
+            "Duration (s)": 16.13,
+            "Start time": "00:00:00.000",
+            "End time": "00:00:16.129"
+        },
+        {
+            "Code": "VC71R",
+            "Duration (s)": 16.13,
+            "Start time": "00:00:00.000",
+            "End time": "00:00:16.129"
+        },
+        {
+            "Code": "VC70R",
+            "Duration (s)": 16.13,
+            "Start time": "00:00:00.000",
+            "End time": "00:00:16.129"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.5,
+            "Start time": "00:00:00.010",
+            "End time": "00:00:00.510"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 1.38,
+            "Start time": "00:00:00.180",
+            "End time": "00:00:01.560"
+        },
+        {
+            "Code": "EAD101",
+            "Duration (s)": 0.03,
+            "Start time": "00:00:00.570",
+            "End time": "00:00:00.600"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.17,
+            "Start time": "00:00:01.390",
+            "End time": "00:00:01.560"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 1.17,
+            "Start time": "00:00:01.430",
+            "End time": "00:00:02.600"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.2,
+            "Start time": "00:00:01.820",
+            "End time": "00:00:02.020"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.27,
+            "Start time": "00:00:01.820",
+            "End time": "00:00:02.090"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.35,
+            "Start time": "00:00:01.930",
+            "End time": "00:00:02.280"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.37,
+            "Start time": "00:00:02.050",
+            "End time": "00:00:02.420"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.19,
+            "Start time": "00:00:02.590",
+            "End time": "00:00:02.780"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 0.4,
+            "Start time": "00:00:02.680",
+            "End time": "00:00:03.080"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 2.51,
+            "Start time": "00:00:03.010",
+            "End time": "00:00:05.520"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.47,
+            "Start time": "00:00:05.040",
+            "End time": "00:00:05.510"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.74,
+            "Start time": "00:00:05.510",
+            "End time": "00:00:06.250"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.37,
+            "Start time": "00:00:09.600",
+            "End time": "00:00:09.970"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.39,
+            "Start time": "00:00:10.640",
+            "End time": "00:00:11.030"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.38,
+            "Start time": "00:00:11.100",
+            "End time": "00:00:11.480"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 2.53,
+            "Start time": "00:00:12.330",
+            "End time": "00:00:14.860"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.63,
+            "Start time": "00:00:13.160",
+            "End time": "00:00:13.790"
+        },
+        {
+            "Code": "AD54",
+            "Duration (s)": 0.99,
+            "Start time": "00:00:13.210",
+            "End time": "00:00:14.200"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 1.45,
+            "Start time": "00:00:13.230",
+            "End time": "00:00:14.680"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.97,
+            "Start time": "00:00:13.530",
+            "End time": "00:00:14.500"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 2.28,
+            "Start time": "00:00:13.800",
+            "End time": "00:00:16.079"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 1.87,
+            "Start time": "00:00:14.250",
+            "End time": "00:00:16.120"
+        },
+        {
+            "Code": "AD53",
+            "Duration (s)": 0.38,
+            "Start time": "00:00:14.620",
+            "End time": "00:00:15.000"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.32,
+            "Start time": "00:00:15.190",
+            "End time": "00:00:15.510"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 1.35,
+            "Start time": "00:00:15.440",
+            "End time": "00:00:16.790"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.44,
+            "Start time": "00:00:15.640",
+            "End time": "00:00:16.079"
+        },
+        {
+            "Code": "AU47R",
+            "Duration (s)": 0.31,
+            "Start time": "00:00:15.670",
+            "End time": "00:00:15.980"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.3,
+            "Start time": "00:00:16.059",
+            "End time": "00:00:16.360"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.28,
+            "Start time": "00:00:16.400",
+            "End time": "00:00:16.680"
+        },
+        {
+            "Code": "AU47",
+            "Duration (s)": 0.33,
+            "Start time": "00:00:16.730",
+            "End time": "00:00:17.060"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 1.38,
+            "Start time": "00:00:16.780",
+            "End time": "00:00:18.160"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.83,
+            "Start time": "00:00:16.800",
+            "End time": "00:00:17.630"
+        },
+        {
+            "Code": "VC72R",
+            "Duration (s)": 12.9,
+            "Start time": "00:00:17.260",
+            "End time": "00:00:30.160"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.6,
+            "Start time": "00:00:18.140",
+            "End time": "00:00:18.740"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.14,
+            "Start time": "00:00:18.160",
+            "End time": "00:00:18.300"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.3,
+            "Start time": "00:00:20.280",
+            "End time": "00:00:20.580"
+        },
+        {
+            "Code": "AUH13L",
+            "Duration (s)": 8.48,
+            "Start time": "00:00:21.670",
+            "End time": "00:00:30.150"
+        },
+        {
+            "Code": "AU113L",
+            "Duration (s)": 0.4,
+            "Start time": "00:00:23.680",
+            "End time": "00:00:24.080"
+        },
+        {
+            "Code": "AU145",
+            "Duration (s)": 0.91,
+            "Start time": "00:00:25.450",
+            "End time": "00:00:26.360"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.4,
+            "Start time": "00:00:27.150",
+            "End time": "00:00:27.550"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.59,
+            "Start time": "00:00:27.750",
+            "End time": "00:00:28.340"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.36,
+            "Start time": "00:00:27.860",
+            "End time": "00:00:28.220"
+        }
+    ],
+    "S4.mp4": [
+        {
+            "Code": "VC72R",
+            "Duration (s)": 4.98,
+            "Start time": "00:00:00.008",
+            "End time": "00:00:04.999"
+        },
+        {
+            "Code": "VC71R",
+            "Duration (s)": 4.98,
+            "Start time": "00:00:00.008",
+            "End time": "00:00:04.999"
+        },
+        {
+            "Code": "VC70R",
+            "Duration (s)": 4.98,
+            "Start time": "00:00:00.008",
+            "End time": "00:00:04.999"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.33,
+            "Start time": "00:00:00.050",
+            "End time": "00:00:00.380"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.46,
+            "Start time": "00:00:00.199",
+            "End time": "00:00:00.658"
+        },
+        {
+            "Code": "EAD104",
+            "Duration (s)": 0.54,
+            "Start time": "00:00:00.420",
+            "End time": "00:00:00.960"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.55,
+            "Start time": "00:00:00.630",
+            "End time": "00:00:01.180"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.68,
+            "Start time": "00:00:00.720",
+            "End time": "00:00:01.400"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 1.13,
+            "Start time": "00:00:01.090",
+            "End time": "00:00:02.220"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.5,
+            "Start time": "00:00:01.350",
+            "End time": "00:00:01.850"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.29,
+            "Start time": "00:00:01.574",
+            "End time": "00:00:01.866"
+        },
+        {
+            "Code": "AD53",
+            "Duration (s)": 0.49,
+            "Start time": "00:00:01.924",
+            "End time": "00:00:02.408"
+        },
+        {
+            "Code": "EAD101",
+            "Duration (s)": 0.39,
+            "Start time": "00:00:01.930",
+            "End time": "00:00:02.320"
+        },
+        {
+            "Code": "EAD104",
+            "Duration (s)": 0.43,
+            "Start time": "00:00:02.240",
+            "End time": "00:00:02.670"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 0.36,
+            "Start time": "00:00:03.108",
+            "End time": "00:00:03.466"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.3,
+            "Start time": "00:00:03.133",
+            "End time": "00:00:03.433"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.46,
+            "Start time": "00:00:03.250",
+            "End time": "00:00:03.710"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.69,
+            "Start time": "00:00:03.260",
+            "End time": "00:00:03.950"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 0.48,
+            "Start time": "00:00:03.420",
+            "End time": "00:00:03.900"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.63,
+            "Start time": "00:00:03.660",
+            "End time": "00:00:04.290"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.63,
+            "Start time": "00:00:03.680",
+            "End time": "00:00:04.310"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 0.1,
+            "Start time": "00:00:03.891",
+            "End time": "00:00:03.991"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.71,
+            "Start time": "00:00:04.110",
+            "End time": "00:00:04.820"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.25,
+            "Start time": "00:00:04.141",
+            "End time": "00:00:04.391"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.18,
+            "Start time": "00:00:04.273",
+            "End time": "00:00:04.457"
+        },
+        {
+            "Code": "EAD104",
+            "Duration (s)": 0.44,
+            "Start time": "00:00:04.290",
+            "End time": "00:00:04.730"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 0.48,
+            "Start time": "00:00:04.340",
+            "End time": "00:00:04.820"
+        },
+        {
+            "Code": "AD54",
+            "Duration (s)": 1.39,
+            "Start time": "00:00:04.550",
+            "End time": "00:00:05.940"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.31,
+            "Start time": "00:00:04.870",
+            "End time": "00:00:05.180"
+        },
+        {
+            "Code": "VC74",
+            "Duration (s)": 0.26,
+            "Start time": "00:00:04.920",
+            "End time": "00:00:05.180"
+        },
+        {
+            "Code": "EAD101",
+            "Duration (s)": 0.22,
+            "Start time": "00:00:04.970",
+            "End time": "00:00:05.190"
+        },
+        {
+            "Code": "VC72",
+            "Duration (s)": 0.14,
+            "Start time": "00:00:04.980",
+            "End time": "00:00:05.120"
+        },
+        {
+            "Code": "VC70R",
+            "Duration (s)": 0.54,
+            "Start time": "00:00:05.024",
+            "End time": "00:00:05.566"
+        },
+        {
+            "Code": "VC71R",
+            "Duration (s)": 0.54,
+            "Start time": "00:00:05.024",
+            "End time": "00:00:05.566"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.23,
+            "Start time": "00:00:05.190",
+            "End time": "00:00:05.420"
+        },
+        {
+            "Code": "AD53",
+            "Duration (s)": 0.15,
+            "Start time": "00:00:05.300",
+            "End time": "00:00:05.450"
+        },
+        {
+            "Code": "VC72R",
+            "Duration (s)": 22.69,
+            "Start time": "00:00:05.573",
+            "End time": "00:00:28.264"
+        },
+        {
+            "Code": "VC71R",
+            "Duration (s)": 22.69,
+            "Start time": "00:00:05.573",
+            "End time": "00:00:28.264"
+        },
+        {
+            "Code": "VC70R",
+            "Duration (s)": 22.69,
+            "Start time": "00:00:05.573",
+            "End time": "00:00:28.264"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.22,
+            "Start time": "00:00:05.630",
+            "End time": "00:00:06.850"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.31,
+            "Start time": "00:00:05.690",
+            "End time": "00:00:06.000"
+        },
+        {
+            "Code": "AD58",
+            "Duration (s)": 0.23,
+            "Start time": "00:00:05.941",
+            "End time": "00:00:06.166"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.24,
+            "Start time": "00:00:06.070",
+            "End time": "00:00:06.310"
+        },
+        {
+            "Code": "AD57",
+            "Duration (s)": 0.41,
+            "Start time": "00:00:06.157",
+            "End time": "00:00:06.574"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.3,
+            "Start time": "00:00:06.410",
+            "End time": "00:00:06.710"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.46,
+            "Start time": "00:00:06.880",
+            "End time": "00:00:07.340"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.33,
+            "Start time": "00:00:06.950",
+            "End time": "00:00:07.280"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 2.3,
+            "Start time": "00:00:07.050",
+            "End time": "00:00:09.350"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.58,
+            "Start time": "00:00:07.570",
+            "End time": "00:00:08.150"
+        },
+        {
+            "Code": "AD38",
+            "Duration (s)": 0.52,
+            "Start time": "00:00:07.800",
+            "End time": "00:00:08.320"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.44,
+            "Start time": "00:00:08.039",
+            "End time": "00:00:08.480"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.4,
+            "Start time": "00:00:08.207",
+            "End time": "00:00:08.616"
+        },
+        {
+            "Code": "EAD104",
+            "Duration (s)": 0.6,
+            "Start time": "00:00:08.920",
+            "End time": "00:00:09.520"
+        },
+        {
+            "Code": "EAD103",
+            "Duration (s)": 0.6,
+            "Start time": "00:00:08.920",
+            "End time": "00:00:09.520"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.26,
+            "Start time": "00:00:09.315",
+            "End time": "00:00:09.574"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.32,
+            "Start time": "00:00:09.580",
+            "End time": "00:00:09.900"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.21,
+            "Start time": "00:00:09.930",
+            "End time": "00:00:10.140"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.27,
+            "Start time": "00:00:09.990",
+            "End time": "00:00:10.260"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.87,
+            "Start time": "00:00:10.180",
+            "End time": "00:00:12.050"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.233,
+            "Start time": "00:00:10.474",
+            "End time": "00:00:10.707"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 0.63,
+            "Start time": "00:00:10.823",
+            "End time": "00:00:11.457"
+        },
+        {
+            "Code": "AU113",
+            "Duration (s)": 0.74,
+            "Start time": "00:00:12.070",
+            "End time": "00:00:12.810"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.35,
+            "Start time": "00:00:12.082",
+            "End time": "00:00:12.432"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.2,
+            "Start time": "00:00:12.370",
+            "End time": "00:00:12.570"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 1.19,
+            "Start time": "00:00:12.499",
+            "End time": "00:00:13.691"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.29,
+            "Start time": "00:00:12.500",
+            "End time": "00:00:12.790"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.48,
+            "Start time": "00:00:12.770",
+            "End time": "00:00:13.250"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.28,
+            "Start time": "00:00:13.232",
+            "End time": "00:00:13.507"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.59,
+            "Start time": "00:00:13.416",
+            "End time": "00:00:14.007"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.41,
+            "Start time": "00:00:13.500",
+            "End time": "00:00:13.910"
+        },
+        {
+            "Code": "AU47",
+            "Duration (s)": 0.15,
+            "Start time": "00:00:13.880",
+            "End time": "00:00:14.030"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.44,
+            "Start time": "00:00:14.100",
+            "End time": "00:00:14.540"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 1.07,
+            "Start time": "00:00:14.440",
+            "End time": "00:00:15.507"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.28,
+            "Start time": "00:00:14.515",
+            "End time": "00:00:14.799"
+        },
+        {
+            "Code": "AU145",
+            "Duration (s)": 0.86,
+            "Start time": "00:00:14.520",
+            "End time": "00:00:15.380"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 0.67,
+            "Start time": "00:00:14.780",
+            "End time": "00:00:15.450"
+        },
+        {
+            "Code": "AD1",
+            "Duration (s)": 0.39,
+            "Start time": "00:00:15.160",
+            "End time": "00:00:15.550"
+        },
+        {
+            "Code": "EAD101",
+            "Duration (s)": 0.32,
+            "Start time": "00:00:15.290",
+            "End time": "00:00:15.610"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.24,
+            "Start time": "00:00:15.449",
+            "End time": "00:00:15.691"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.34,
+            "Start time": "00:00:15.615",
+            "End time": "00:00:15.957"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.18,
+            "Start time": "00:00:15.620",
+            "End time": "00:00:16.800"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.25,
+            "Start time": "00:00:15.632",
+            "End time": "00:00:15.882"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.42,
+            "Start time": "00:00:15.670",
+            "End time": "00:00:16.090"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.71,
+            "Start time": "00:00:16.110",
+            "End time": "00:00:16.820"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 0.46,
+            "Start time": "00:00:16.199",
+            "End time": "00:00:16.657"
+        },
+        {
+            "Code": "EAD101",
+            "Duration (s)": 0.77,
+            "Start time": "00:00:16.510",
+            "End time": "00:00:17.280"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.32,
+            "Start time": "00:00:16.799",
+            "End time": "00:00:17.116"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 1.24,
+            "Start time": "00:00:16.832",
+            "End time": "00:00:18.074"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.49,
+            "Start time": "00:00:16.990",
+            "End time": "00:00:17.482"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 9.06,
+            "Start time": "00:00:17.020",
+            "End time": "00:00:26.080"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.48,
+            "Start time": "00:00:17.510",
+            "End time": "00:00:17.990"
+        },
+        {
+            "Code": "AUH13L",
+            "Duration (s)": 0.32,
+            "Start time": "00:00:17.998",
+            "End time": "00:00:18.315"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 0.68,
+            "Start time": "00:00:19.199",
+            "End time": "00:00:19.882"
+        },
+        {
+            "Code": "EAD104",
+            "Duration (s)": 0.69,
+            "Start time": "00:00:19.320",
+            "End time": "00:00:20.010"
+        },
+        {
+            "Code": "AU113L",
+            "Duration (s)": 0.33,
+            "Start time": "00:00:19.874",
+            "End time": "00:00:20.207"
+        },
+        {
+            "Code": "EAD101",
+            "Duration (s)": 0.3,
+            "Start time": "00:00:20.010",
+            "End time": "00:00:20.310"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.53,
+            "Start time": "00:00:20.449",
+            "End time": "00:00:20.982"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 0.83,
+            "Start time": "00:00:20.766",
+            "End time": "00:00:21.599"
+        },
+        {
+            "Code": "AU18",
+            "Duration (s)": 0.76,
+            "Start time": "00:00:21.550",
+            "End time": "00:00:22.310"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.38,
+            "Start time": "00:00:21.620",
+            "End time": "00:00:22.000"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 0.79,
+            "Start time": "00:00:23.366",
+            "End time": "00:00:24.157"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 0.7,
+            "Start time": "00:00:23.799",
+            "End time": "00:00:24.499"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.18,
+            "Start time": "00:00:24.816",
+            "End time": "00:00:24.991"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 0.792,
+            "Start time": "00:00:25.449",
+            "End time": "00:00:26.241"
+        },
+        {
+            "Code": "EAD104",
+            "Duration (s)": 0.77,
+            "Start time": "00:00:25.620",
+            "End time": "00:00:26.390"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.29,
+            "Start time": "00:00:26.041",
+            "End time": "00:00:26.332"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.6,
+            "Start time": "00:00:26.310",
+            "End time": "00:00:27.910"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.27,
+            "Start time": "00:00:26.974",
+            "End time": "00:00:27.241"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.39,
+            "Start time": "00:00:27.832",
+            "End time": "00:00:28.224"
+        },
+        {
+            "Code": "AD54",
+            "Duration (s)": 0.7,
+            "Start time": "00:00:27.840",
+            "End time": "00:00:28.540"
+        },
+        {
+            "Code": "EAD101",
+            "Duration (s)": 0.56,
+            "Start time": "00:00:27.990",
+            "End time": "00:00:28.550"
+        },
+        {
+            "Code": "VC70R",
+            "Duration (s)": 0.42,
+            "Start time": "00:00:28.299",
+            "End time": "00:00:28.716"
+        },
+        {
+            "Code": "VC71R",
+            "Duration (s)": 0.42,
+            "Start time": "00:00:28.299",
+            "End time": "00:00:28.716"
+        },
+        {
+            "Code": "VC72",
+            "Duration (s)": 0.42,
+            "Start time": "00:00:28.299",
+            "End time": "00:00:28.716"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.43,
+            "Start time": "00:00:28.341",
+            "End time": "00:00:28.766"
+        },
+        {
+            "Code": "AD53",
+            "Duration (s)": 0.59,
+            "Start time": "00:00:28.540",
+            "End time": "00:00:29.130"
+        },
+        {
+            "Code": "EAD104",
+            "Duration (s)": 0.72,
+            "Start time": "00:00:28.540",
+            "End time": "00:00:29.260"
+        },
+        {
+            "Code": "VC72R",
+            "Duration (s)": 0.68,
+            "Start time": "00:00:28.707",
+            "End time": "00:00:29.382"
+        },
+        {
+            "Code": "VC71R",
+            "Duration (s)": 0.68,
+            "Start time": "00:00:28.707",
+            "End time": "00:00:29.382"
+        },
+        {
+            "Code": "VC70R",
+            "Duration (s)": 0.68,
+            "Start time": "00:00:28.707",
+            "End time": "00:00:29.382"
+        },
+        {
+            "Code": "VC74",
+            "Duration (s)": 0.99,
+            "Start time": "00:00:29.132",
+            "End time": "00:00:30.120"
+        },
+        {
+            "Code": "AD54",
+            "Duration (s)": 0.78,
+            "Start time": "00:00:29.200",
+            "End time": "00:00:29.890"
+        },
+        {
+            "Code": "VC72",
+            "Duration (s)": 0.55,
+            "Start time": "00:00:29.360",
+            "End time": "00:00:29.910"
+        },
+        {
+            "Code": "VC71",
+            "Duration (s)": 0.74,
+            "Start time": "00:00:29.382",
+            "End time": "00:00:30.120"
+        },
+        {
+            "Code": "VC70",
+            "Duration (s)": 0.74,
+            "Start time": "00:00:29.382",
+            "End time": "00:00:30.120"
+        },
+        {
+            "Code": "VC72",
+            "Duration (s)": 0.74,
+            "Start time": "00:00:29.382",
+            "End time": "00:00:30.120"
+        }
+    ],
+    "S5.mp4": [
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.99,
+            "Start time": "00:00:00.020",
+            "End time": "00:00:02.009"
+        },
+        {
+            "Code": "VC72R",
+            "Duration (s)": 28.81,
+            "Start time": "00:00:00.020",
+            "End time": "00:00:28.830"
+        },
+        {
+            "Code": "VC71R",
+            "Duration (s)": 28.81,
+            "Start time": "00:00:00.020",
+            "End time": "00:00:28.830"
+        },
+        {
+            "Code": "VC70R",
+            "Duration (s)": 28.81,
+            "Start time": "00:00:00.020",
+            "End time": "00:00:28.830"
+        },
+        {
+            "Code": "AD160",
+            "Duration (s)": 30.1,
+            "Start time": "00:00:00.020",
+            "End time": "00:00:30.120"
+        },
+        {
+            "Code": "AUH13L",
+            "Duration (s)": 0.08,
+            "Start time": "00:00:01.480",
+            "End time": "00:00:01.560"
+        },
+        {
+            "Code": "AU113L",
+            "Duration (s)": 0.18,
+            "Start time": "00:00:02.380",
+            "End time": "00:00:02.560"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.43,
+            "Start time": "00:00:02.650",
+            "End time": "00:00:03.080"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.89,
+            "Start time": "00:00:04.220",
+            "End time": "00:00:05.110"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.31,
+            "Start time": "00:00:04.920",
+            "End time": "00:00:05.230"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.42,
+            "Start time": "00:00:05.130",
+            "End time": "00:00:05.550"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 1.68,
+            "Start time": "00:00:06.150",
+            "End time": "00:00:07.830"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.4,
+            "Start time": "00:00:06.160",
+            "End time": "00:00:06.560"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 3.02,
+            "Start time": "00:00:06.390",
+            "End time": "00:00:09.410"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 3.07,
+            "Start time": "00:00:06.460",
+            "End time": "00:00:09.530"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.45,
+            "Start time": "00:00:08.220",
+            "End time": "00:00:08.670"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.52,
+            "Start time": "00:00:09.060",
+            "End time": "00:00:09.580"
+        },
+        {
+            "Code": "Uncodable",
+            "Duration (s)": 0.57,
+            "Start time": "00:00:09.330",
+            "End time": "00:00:09.870"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 2.28,
+            "Start time": "00:00:09.490",
+            "End time": "00:00:11.770"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.5,
+            "Start time": "00:00:09.550",
+            "End time": "00:00:10.050"
+        },
+        {
+            "Code": "AD54",
+            "Duration (s)": 0.9,
+            "Start time": "00:00:09.970",
+            "End time": "00:00:10.870"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.32,
+            "Start time": "00:00:10.300",
+            "End time": "00:00:10.620"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.43,
+            "Start time": "00:00:10.760",
+            "End time": "00:00:11.190"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.55,
+            "Start time": "00:00:11.130",
+            "End time": "00:00:11.680"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.83,
+            "Start time": "00:00:11.200",
+            "End time": "00:00:12.030"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.41,
+            "Start time": "00:00:11.680",
+            "End time": "00:00:12.090"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.39,
+            "Start time": "00:00:11.880",
+            "End time": "00:00:12.270"
+        },
+        {
+            "Code": "AD54",
+            "Duration (s)": 0.82,
+            "Start time": "00:00:11.970",
+            "End time": "00:00:12.790"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.42,
+            "Start time": "00:00:12.000",
+            "End time": "00:00:12.420"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.36,
+            "Start time": "00:00:12.880",
+            "End time": "00:00:13.240"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.31,
+            "Start time": "00:00:13.500",
+            "End time": "00:00:13.810"
+        },
+        {
+            "Code": "AU113L",
+            "Duration (s)": 0.34,
+            "Start time": "00:00:13.850",
+            "End time": "00:00:14.190"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.35,
+            "Start time": "00:00:15.990",
+            "End time": "00:00:16.340"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 2.44,
+            "Start time": "00:00:16.329",
+            "End time": "00:00:18.770"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.84,
+            "Start time": "00:00:16.770",
+            "End time": "00:00:17.610"
+        },
+        {
+            "Code": "AD53",
+            "Duration (s)": 2.23,
+            "Start time": "00:00:17.510",
+            "End time": "00:00:19.740"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.46,
+            "Start time": "00:00:17.830",
+            "End time": "00:00:18.290"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 0.83,
+            "Start time": "00:00:18.890",
+            "End time": "00:00:19.720"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.93,
+            "Start time": "00:00:20.220",
+            "End time": "00:00:21.150"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.73,
+            "Start time": "00:00:20.240",
+            "End time": "00:00:20.970"
+        },
+        {
+            "Code": "AD54",
+            "Duration (s)": 1.21,
+            "Start time": "00:00:20.350",
+            "End time": "00:00:21.560"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 1.21,
+            "Start time": "00:00:20.350",
+            "End time": "00:00:21.560"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.52,
+            "Start time": "00:00:21.000",
+            "End time": "00:00:21.520"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.37,
+            "Start time": "00:00:21.280",
+            "End time": "00:00:21.650"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.29,
+            "Start time": "00:00:21.530",
+            "End time": "00:00:21.820"
+        },
+        {
+            "Code": "AD57",
+            "Duration (s)": 0.66,
+            "Start time": "00:00:21.600",
+            "End time": "00:00:22.260"
+        },
+        {
+            "Code": "EAD104",
+            "Duration (s)": 0.47,
+            "Start time": "00:00:21.650",
+            "End time": "00:00:22.120"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 3.43,
+            "Start time": "00:00:21.810",
+            "End time": "00:00:25.240"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.4,
+            "Start time": "00:00:22.560",
+            "End time": "00:00:22.960"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 0.59,
+            "Start time": "00:00:24.240",
+            "End time": "00:00:24.830"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 0.73,
+            "Start time": "00:00:25.720",
+            "End time": "00:00:26.450"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.44,
+            "Start time": "00:00:26.100",
+            "End time": "00:00:26.540"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 3.51,
+            "Start time": "00:00:26.160",
+            "End time": "00:00:29.670"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.22,
+            "Start time": "00:00:26.570",
+            "End time": "00:00:26.790"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.75,
+            "Start time": "00:00:26.880",
+            "End time": "00:00:27.630"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.44,
+            "Start time": "00:00:26.970",
+            "End time": "00:00:27.410"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.29,
+            "Start time": "00:00:27.340",
+            "End time": "00:00:27.630"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.61,
+            "Start time": "00:00:27.640",
+            "End time": "00:00:28.250"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.37,
+            "Start time": "00:00:27.700",
+            "End time": "00:00:28.070"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.4,
+            "Start time": "00:00:28.280",
+            "End time": "00:00:28.680"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.43,
+            "Start time": "00:00:28.430",
+            "End time": "00:00:28.860"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.56,
+            "Start time": "00:00:28.490",
+            "End time": "00:00:29.050"
+        },
+        {
+            "Code": "VC73",
+            "Duration (s)": 1.3,
+            "Start time": "00:00:28.820",
+            "End time": "00:00:30.120"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.31,
+            "Start time": "00:00:29.200",
+            "End time": "00:00:29.510"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.58,
+            "Start time": "00:00:29.210",
+            "End time": "00:00:29.790"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.49,
+            "Start time": "00:00:29.350",
+            "End time": "00:00:29.840"
+        },
+        {
+            "Code": "VC74",
+            "Duration (s)": 0.41,
+            "Start time": "00:00:29.710",
+            "End time": "00:00:30.120"
+        }
+    ],
+    "S6.mp4": [
+        {
+            "Code": "VC72R",
+            "Duration (s)": 29.84,
+            "Start time": "00:00:00.000",
+            "End time": "00:00:29.840"
+        },
+        {
+            "Code": "VC71R",
+            "Duration (s)": 29.84,
+            "Start time": "00:00:00.000",
+            "End time": "00:00:29.840"
+        },
+        {
+            "Code": "VC70R",
+            "Duration (s)": 29.84,
+            "Start time": "00:00:00.000",
+            "End time": "00:00:29.840"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 9.71,
+            "Start time": "00:00:00.050",
+            "End time": "00:00:09.760"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 1.68,
+            "Start time": "00:00:00.060",
+            "End time": "00:00:01.740"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 0.98,
+            "Start time": "00:00:01.060",
+            "End time": "00:00:02.040"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 1.04,
+            "Start time": "00:00:03.130",
+            "End time": "00:00:04.170"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 0.48,
+            "Start time": "00:00:04.050",
+            "End time": "00:00:04.530"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.57,
+            "Start time": "00:00:05.520",
+            "End time": "00:00:06.090"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.36,
+            "Start time": "00:00:09.740",
+            "End time": "00:00:10.100"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 1.41,
+            "Start time": "00:00:09.850",
+            "End time": "00:00:11.260"
+        },
+        {
+            "Code": "AD38",
+            "Duration (s)": 1.21,
+            "Start time": "00:00:09.930",
+            "End time": "00:00:11.140"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.43,
+            "Start time": "00:00:10.020",
+            "End time": "00:00:10.450"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.91,
+            "Start time": "00:00:10.310",
+            "End time": "00:00:11.220"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.36,
+            "Start time": "00:00:11.130",
+            "End time": "00:00:11.490"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.36,
+            "Start time": "00:00:11.420",
+            "End time": "00:00:11.780"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 0.31,
+            "Start time": "00:00:11.430",
+            "End time": "00:00:11.740"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 3.12,
+            "Start time": "00:00:11.530",
+            "End time": "00:00:14.650"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 1.06,
+            "Start time": "00:00:11.540",
+            "End time": "00:00:12.600"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.35,
+            "Start time": "00:00:11.710",
+            "End time": "00:00:12.060"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 0.7,
+            "Start time": "00:00:11.920",
+            "End time": "00:00:12.620"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 10.45,
+            "Start time": "00:00:11.940",
+            "End time": "00:00:22.390"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.39,
+            "Start time": "00:00:12.630",
+            "End time": "00:00:13.020"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 9.39,
+            "Start time": "00:00:13.010",
+            "End time": "00:00:22.400"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 1.12,
+            "Start time": "00:00:14.120",
+            "End time": "00:00:15.240"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 1.19,
+            "Start time": "00:00:17.210",
+            "End time": "00:00:18.400"
+        },
+        {
+            "Code": "AU113L",
+            "Duration (s)": 0.6,
+            "Start time": "00:00:18.170",
+            "End time": "00:00:18.770"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.74,
+            "Start time": "00:00:19.230",
+            "End time": "00:00:19.970"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 1.03,
+            "Start time": "00:00:20.410",
+            "End time": "00:00:21.440"
+        },
+        {
+            "Code": "AU113L",
+            "Duration (s)": 0.28,
+            "Start time": "00:00:20.460",
+            "End time": "00:00:20.740"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.62,
+            "Start time": "00:00:21.920",
+            "End time": "00:00:22.540"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 1.88,
+            "Start time": "00:00:22.420",
+            "End time": "00:00:24.300"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 3.85,
+            "Start time": "00:00:22.450",
+            "End time": "00:00:26.300"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.4,
+            "Start time": "00:00:23.830",
+            "End time": "00:00:24.230"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.43,
+            "Start time": "00:00:24.400",
+            "End time": "00:00:24.830"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.25,
+            "Start time": "00:00:26.300",
+            "End time": "00:00:26.550"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 3.28,
+            "Start time": "00:00:26.560",
+            "End time": "00:00:29.840"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 1.6,
+            "Start time": "00:00:26.780",
+            "End time": "00:00:28.380"
+        }
+    ],
+    "S7.mp4": [
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.41,
+            "Start time": "00:00:00.000",
+            "End time": "00:00:01.410"
+        },
+        {
+            "Code": "VC72R",
+            "Duration (s)": 29.4,
+            "Start time": "00:00:00.000",
+            "End time": "00:00:29.400"
+        },
+        {
+            "Code": "VC71R",
+            "Duration (s)": 29.4,
+            "Start time": "00:00:00.000",
+            "End time": "00:00:29.400"
+        },
+        {
+            "Code": "VC70R",
+            "Duration (s)": 29.4,
+            "Start time": "00:00:00.000",
+            "End time": "00:00:29.400"
+        },
+        {
+            "Code": "AU145",
+            "Duration (s)": 0.47,
+            "Start time": "00:00:01.430",
+            "End time": "00:00:01.900"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 6.6,
+            "Start time": "00:00:01.740",
+            "End time": "00:00:08.340"
+        },
+        {
+            "Code": "AU113L",
+            "Duration (s)": 0.65,
+            "Start time": "00:00:02.110",
+            "End time": "00:00:02.760"
+        },
+        {
+            "Code": "AU113L",
+            "Duration (s)": 0.32,
+            "Start time": "00:00:03.240",
+            "End time": "00:00:03.560"
+        },
+        {
+            "Code": "AD54",
+            "Duration (s)": 1.37,
+            "Start time": "00:00:08.189",
+            "End time": "00:00:09.560"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.41,
+            "Start time": "00:00:08.850",
+            "End time": "00:00:09.260"
+        },
+        {
+            "Code": "EAD102",
+            "Duration (s)": 0.64,
+            "Start time": "00:00:09.290",
+            "End time": "00:00:09.930"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 4.1,
+            "Start time": "00:00:09.330",
+            "End time": "00:00:13.430"
+        },
+        {
+            "Code": "AUH13",
+            "Duration (s)": 0.5,
+            "Start time": "00:00:09.370",
+            "End time": "00:00:09.870"
+        },
+        {
+            "Code": "AD38",
+            "Duration (s)": 0.84,
+            "Start time": "00:00:11.150",
+            "End time": "00:00:11.990"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.76,
+            "Start time": "00:00:13.240",
+            "End time": "00:00:14.000"
+        },
+        {
+            "Code": "AU145",
+            "Duration (s)": 0.43,
+            "Start time": "00:00:13.380",
+            "End time": "00:00:13.810"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 13.99,
+            "Start time": "00:00:13.970",
+            "End time": "00:00:27.960"
+        },
+        {
+            "Code": "AU113L",
+            "Duration (s)": 0.54,
+            "Start time": "00:00:15.100",
+            "End time": "00:00:15.640"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 1.65,
+            "Start time": "00:00:15.920",
+            "End time": "00:00:17.570"
+        },
+        {
+            "Code": "AD38",
+            "Duration (s)": 0.53,
+            "Start time": "00:00:20.450",
+            "End time": "00:00:20.980"
+        },
+        {
+            "Code": "AD38",
+            "Duration (s)": 0.49,
+            "Start time": "00:00:22.560",
+            "End time": "00:00:23.050"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.51,
+            "Start time": "00:00:27.870",
+            "End time": "00:00:28.380"
+        },
+        {
+            "Code": "AU145",
+            "Duration (s)": 0.63,
+            "Start time": "00:00:27.960",
+            "End time": "00:00:28.590"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.79,
+            "Start time": "00:00:28.610",
+            "End time": "00:00:29.400"
+        }
+    ],
+    "S8.mp4": [
+        {
+            "Code": "AU5L",
+            "Duration (s)": 0.5,
+            "Start time": "00:00:00.010",
+            "End time": "00:00:00.510"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.5,
+            "Start time": "00:00:00.010",
+            "End time": "00:00:00.510"
+        },
+        {
+            "Code": "VC72R",
+            "Duration (s)": 29.51,
+            "Start time": "00:00:00.010",
+            "End time": "00:00:29.520"
+        },
+        {
+            "Code": "VC71R",
+            "Duration (s)": 29.51,
+            "Start time": "00:00:00.010",
+            "End time": "00:00:29.520"
+        },
+        {
+            "Code": "VC70R",
+            "Duration (s)": 29.51,
+            "Start time": "00:00:00.010",
+            "End time": "00:00:29.520"
+        },
+        {
+            "Code": "AD81",
+            "Duration (s)": 2.5,
+            "Start time": "00:00:00.020",
+            "End time": "00:00:02.520"
+        },
+        {
+            "Code": "AU47",
+            "Duration (s)": 0.29,
+            "Start time": "00:00:00.560",
+            "End time": "00:00:00.850"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 1.39,
+            "Start time": "00:00:00.720",
+            "End time": "00:00:02.110"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.11,
+            "Start time": "00:00:00.730",
+            "End time": "00:00:00.840"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 1.31,
+            "Start time": "00:00:00.730",
+            "End time": "00:00:02.040"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 0.86,
+            "Start time": "00:00:01.290",
+            "End time": "00:00:02.150"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.48,
+            "Start time": "00:00:01.640",
+            "End time": "00:00:02.120"
+        },
+        {
+            "Code": "AD19",
+            "Duration (s)": 0.43,
+            "Start time": "00:00:01.750",
+            "End time": "00:00:02.180"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.51,
+            "Start time": "00:00:02.040",
+            "End time": "00:00:02.550"
+        },
+        {
+            "Code": "AU47",
+            "Duration (s)": 0.25,
+            "Start time": "00:00:02.110",
+            "End time": "00:00:02.360"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.37,
+            "Start time": "00:00:02.120",
+            "End time": "00:00:02.490"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.76,
+            "Start time": "00:00:02.470",
+            "End time": "00:00:03.230"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 0.55,
+            "Start time": "00:00:03.290",
+            "End time": "00:00:03.840"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 0.66,
+            "Start time": "00:00:03.330",
+            "End time": "00:00:03.990"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 2.12,
+            "Start time": "00:00:03.340",
+            "End time": "00:00:05.460"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 2.12,
+            "Start time": "00:00:03.340",
+            "End time": "00:00:05.460"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.35,
+            "Start time": "00:00:03.540",
+            "End time": "00:00:03.890"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.25,
+            "Start time": "00:00:03.850",
+            "End time": "00:00:04.100"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.51,
+            "Start time": "00:00:04.780",
+            "End time": "00:00:05.290"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.53,
+            "Start time": "00:00:05.300",
+            "End time": "00:00:05.830"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.68,
+            "Start time": "00:00:05.510",
+            "End time": "00:00:06.190"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.66,
+            "Start time": "00:00:05.630",
+            "End time": "00:00:06.290"
+        },
+        {
+            "Code": "Uncodable",
+            "Duration (s)": 0.2,
+            "Start time": "00:00:05.680",
+            "End time": "00:00:05.880"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.92,
+            "Start time": "00:00:06.100",
+            "End time": "00:00:07.020"
+        },
+        {
+            "Code": "AU47",
+            "Duration (s)": 0.27,
+            "Start time": "00:00:06.290",
+            "End time": "00:00:06.560"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.1,
+            "Start time": "00:00:06.650",
+            "End time": "00:00:07.750"
+        },
+        {
+            "Code": "AU145",
+            "Duration (s)": 0.28,
+            "Start time": "00:00:07.710",
+            "End time": "00:00:07.990"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.06,
+            "Start time": "00:00:07.990",
+            "End time": "00:00:09.050"
+        },
+        {
+            "Code": "EAD104",
+            "Duration (s)": 0.45,
+            "Start time": "00:00:08.950",
+            "End time": "00:00:09.400"
+        },
+        {
+            "Code": "AU145",
+            "Duration (s)": 0.36,
+            "Start time": "00:00:09.140",
+            "End time": "00:00:09.500"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 2.24,
+            "Start time": "00:00:09.240",
+            "End time": "00:00:11.480"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.75,
+            "Start time": "00:00:09.410",
+            "End time": "00:00:10.160"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.81,
+            "Start time": "00:00:09.490",
+            "End time": "00:00:10.300"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.29,
+            "Start time": "00:00:10.310",
+            "End time": "00:00:10.600"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.2,
+            "Start time": "00:00:10.600",
+            "End time": "00:00:10.800"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.33,
+            "Start time": "00:00:10.750",
+            "End time": "00:00:11.080"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.09,
+            "Start time": "00:00:11.210",
+            "End time": "00:00:11.300"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.33,
+            "Start time": "00:00:11.310",
+            "End time": "00:00:11.640"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.37,
+            "Start time": "00:00:11.440",
+            "End time": "00:00:11.810"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 1.16,
+            "Start time": "00:00:11.480",
+            "End time": "00:00:12.640"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 3.14,
+            "Start time": "00:00:11.520",
+            "End time": "00:00:14.660"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 1.08,
+            "Start time": "00:00:11.550",
+            "End time": "00:00:12.630"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.23,
+            "Start time": "00:00:11.790",
+            "End time": "00:00:12.020"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.26,
+            "Start time": "00:00:12.040",
+            "End time": "00:00:12.300"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.27,
+            "Start time": "00:00:12.240",
+            "End time": "00:00:12.510"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.64,
+            "Start time": "00:00:12.250",
+            "End time": "00:00:12.890"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 0.52,
+            "Start time": "00:00:12.280",
+            "End time": "00:00:12.800"
+        },
+        {
+            "Code": "AUH13L",
+            "Duration (s)": 0.78,
+            "Start time": "00:00:12.580",
+            "End time": "00:00:13.360"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.31,
+            "Start time": "00:00:12.770",
+            "End time": "00:00:13.080"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.77,
+            "Start time": "00:00:12.920",
+            "End time": "00:00:13.690"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 0.37,
+            "Start time": "00:00:13.050",
+            "End time": "00:00:13.420"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.37,
+            "Start time": "00:00:13.050",
+            "End time": "00:00:13.420"
+        },
+        {
+            "Code": "AUH13L",
+            "Duration (s)": 0.32,
+            "Start time": "00:00:13.420",
+            "End time": "00:00:13.740"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.23,
+            "Start time": "00:00:13.430",
+            "End time": "00:00:13.660"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 0.91,
+            "Start time": "00:00:13.660",
+            "End time": "00:00:14.570"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.91,
+            "Start time": "00:00:13.660",
+            "End time": "00:00:14.570"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.99,
+            "Start time": "00:00:14.660",
+            "End time": "00:00:15.650"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 2.41,
+            "Start time": "00:00:14.690",
+            "End time": "00:00:17.100"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.68,
+            "Start time": "00:00:14.850",
+            "End time": "00:00:15.530"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 1.19,
+            "Start time": "00:00:15.140",
+            "End time": "00:00:17.050"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 1.83,
+            "Start time": "00:00:15.220",
+            "End time": "00:00:17.050"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.24,
+            "Start time": "00:00:16.000",
+            "End time": "00:00:16.239"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.48,
+            "Start time": "00:00:16.260",
+            "End time": "00:00:16.740"
+        },
+        {
+            "Code": "EAD104",
+            "Duration (s)": 0.74,
+            "Start time": "00:00:16.960",
+            "End time": "00:00:17.700"
+        },
+        {
+            "Code": "AU47",
+            "Duration (s)": 0.32,
+            "Start time": "00:00:16.970",
+            "End time": "00:00:17.290"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.71,
+            "Start time": "00:00:17.040",
+            "End time": "00:00:17.750"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.37,
+            "Start time": "00:00:17.290",
+            "End time": "00:00:17.660"
+        },
+        {
+            "Code": "AU47",
+            "Duration (s)": 0.24,
+            "Start time": "00:00:17.700",
+            "End time": "00:00:17.940"
+        },
+        {
+            "Code": "AD53",
+            "Duration (s)": 0.49,
+            "Start time": "00:00:17.910",
+            "End time": "00:00:18.400"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.29,
+            "Start time": "00:00:17.950",
+            "End time": "00:00:18.240"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 1.09,
+            "Start time": "00:00:18.200",
+            "End time": "00:00:19.290"
+        },
+        {
+            "Code": "AD38",
+            "Duration (s)": 1.33,
+            "Start time": "00:00:18.670",
+            "End time": "00:00:20.000"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.7,
+            "Start time": "00:00:19.260",
+            "End time": "00:00:19.960"
+        },
+        {
+            "Code": "AU145",
+            "Duration (s)": 0.3,
+            "Start time": "00:00:19.300",
+            "End time": "00:00:19.600"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.35,
+            "Start time": "00:00:19.590",
+            "End time": "00:00:20.940"
+        },
+        {
+            "Code": "AU47",
+            "Duration (s)": 0.16,
+            "Start time": "00:00:20.880",
+            "End time": "00:00:21.040"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 0.7,
+            "Start time": "00:00:21.000",
+            "End time": "00:00:21.700"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.81,
+            "Start time": "00:00:21.030",
+            "End time": "00:00:21.840"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 0.65,
+            "Start time": "00:00:21.040",
+            "End time": "00:00:21.690"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 0.82,
+            "Start time": "00:00:21.120",
+            "End time": "00:00:21.940"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.82,
+            "Start time": "00:00:21.120",
+            "End time": "00:00:21.940"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.64,
+            "Start time": "00:00:21.740",
+            "End time": "00:00:22.380"
+        },
+        {
+            "Code": "AU47",
+            "Duration (s)": 0.32,
+            "Start time": "00:00:21.940",
+            "End time": "00:00:22.260"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 3.87,
+            "Start time": "00:00:22.110",
+            "End time": "00:00:25.980"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 3.34,
+            "Start time": "00:00:25.910",
+            "End time": "00:00:29.250"
+        },
+        {
+            "Code": "AU47",
+            "Duration (s)": 0.19,
+            "Start time": "00:00:25.990",
+            "End time": "00:00:26.180"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.83,
+            "Start time": "00:00:26.470",
+            "End time": "00:00:27.300"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.33,
+            "Start time": "00:00:27.310",
+            "End time": "00:00:27.640"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.93,
+            "Start time": "00:00:27.590",
+            "End time": "00:00:29.520"
+        }
+    ],
+    "S9.mp4": [
+        {
+            "Code": "AD38L",
+            "Duration (s)": 0.23,
+            "Start time": "00:00:00.000",
+            "End time": "00:00:00.230"
+        },
+        {
+            "Code": "VC72R",
+            "Duration (s)": 18.47,
+            "Start time": "00:00:00.040",
+            "End time": "00:00:18.510"
+        },
+        {
+            "Code": "VC71R",
+            "Duration (s)": 18.47,
+            "Start time": "00:00:00.040",
+            "End time": "00:00:18.510"
+        },
+        {
+            "Code": "VC70R",
+            "Duration (s)": 18.47,
+            "Start time": "00:00:00.040",
+            "End time": "00:00:18.510"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.17,
+            "Start time": "00:00:00.060",
+            "End time": "00:00:01.230"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.52,
+            "Start time": "00:00:00.740",
+            "End time": "00:00:01.260"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.55,
+            "Start time": "00:00:01.210",
+            "End time": "00:00:01.760"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.4,
+            "Start time": "00:00:01.300",
+            "End time": "00:00:01.700"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.69,
+            "Start time": "00:00:01.450",
+            "End time": "00:00:02.140"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.54,
+            "Start time": "00:00:01.770",
+            "End time": "00:00:03.310"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.22,
+            "Start time": "00:00:01.950",
+            "End time": "00:00:02.170"
+        },
+        {
+            "Code": "AD57",
+            "Duration (s)": 0.55,
+            "Start time": "00:00:02.130",
+            "End time": "00:00:02.680"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.25,
+            "Start time": "00:00:02.360",
+            "End time": "00:00:02.610"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.27,
+            "Start time": "00:00:02.780",
+            "End time": "00:00:03.050"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.62,
+            "Start time": "00:00:03.020",
+            "End time": "00:00:03.640"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 2.32,
+            "Start time": "00:00:03.230",
+            "End time": "00:00:05.550"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.29,
+            "Start time": "00:00:03.290",
+            "End time": "00:00:03.580"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.25,
+            "Start time": "00:00:03.880",
+            "End time": "00:00:04.130"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.76,
+            "Start time": "00:00:04.220",
+            "End time": "00:00:04.980"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.25,
+            "Start time": "00:00:04.400",
+            "End time": "00:00:04.650"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 5.38,
+            "Start time": "00:00:04.410",
+            "End time": "00:00:09.790"
+        },
+        {
+            "Code": "AU113L",
+            "Duration (s)": 0.33,
+            "Start time": "00:00:07.560",
+            "End time": "00:00:07.890"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.29,
+            "Start time": "00:00:08.150",
+            "End time": "00:00:08.440"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 1.91,
+            "Start time": "00:00:08.250",
+            "End time": "00:00:10.160"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.69,
+            "Start time": "00:00:09.750",
+            "End time": "00:00:10.440"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.44,
+            "Start time": "00:00:09.900",
+            "End time": "00:00:10.340"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 1.0,
+            "Start time": "00:00:10.070",
+            "End time": "00:00:11.070"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.6,
+            "Start time": "00:00:10.440",
+            "End time": "00:00:11.040"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.22,
+            "Start time": "00:00:11.040",
+            "End time": "00:00:11.260"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.27,
+            "Start time": "00:00:11.310",
+            "End time": "00:00:12.580"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.35,
+            "Start time": "00:00:11.780",
+            "End time": "00:00:12.130"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 1.75,
+            "Start time": "00:00:11.800",
+            "End time": "00:00:13.550"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.21,
+            "Start time": "00:00:12.600",
+            "End time": "00:00:12.810"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 1.8,
+            "Start time": "00:00:15.760",
+            "End time": "00:00:17.560"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.38,
+            "Start time": "00:00:16.600",
+            "End time": "00:00:16.980"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.67,
+            "Start time": "00:00:17.630",
+            "End time": "00:00:18.300"
+        },
+        {
+            "Code": "AD54",
+            "Duration (s)": 1.47,
+            "Start time": "00:00:17.800",
+            "End time": "00:00:19.270"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.88,
+            "Start time": "00:00:18.460",
+            "End time": "00:00:19.340"
+        },
+        {
+            "Code": "VC72",
+            "Duration (s)": 0.25,
+            "Start time": "00:00:18.520",
+            "End time": "00:00:18.770"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.27,
+            "Start time": "00:00:18.600",
+            "End time": "00:00:18.870"
+        },
+        {
+            "Code": "VC73",
+            "Duration (s)": 0.78,
+            "Start time": "00:00:18.770",
+            "End time": "00:00:19.550"
+        },
+        {
+            "Code": "AD53",
+            "Duration (s)": 1.02,
+            "Start time": "00:00:19.240",
+            "End time": "00:00:20.260"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.58,
+            "Start time": "00:00:19.590",
+            "End time": "00:00:20.170"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.46,
+            "Start time": "00:00:19.770",
+            "End time": "00:00:21.230"
+        },
+        {
+            "Code": "VC72",
+            "Duration (s)": 2.38,
+            "Start time": "00:00:19.870",
+            "End time": "00:00:22.250"
+        },
+        {
+            "Code": "AD54",
+            "Duration (s)": 0.34,
+            "Start time": "00:00:20.220",
+            "End time": "00:00:20.560"
+        },
+        {
+            "Code": "AD53",
+            "Duration (s)": 0.51,
+            "Start time": "00:00:20.650",
+            "End time": "00:00:21.160"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.46,
+            "Start time": "00:00:21.260",
+            "End time": "00:00:21.720"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.51,
+            "Start time": "00:00:21.620",
+            "End time": "00:00:23.130"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.38,
+            "Start time": "00:00:21.650",
+            "End time": "00:00:22.030"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.43,
+            "Start time": "00:00:21.660",
+            "End time": "00:00:22.090"
+        },
+        {
+            "Code": "AD57",
+            "Duration (s)": 0.6,
+            "Start time": "00:00:22.040",
+            "End time": "00:00:22.640"
+        },
+        {
+            "Code": "EAD101",
+            "Duration (s)": 0.39,
+            "Start time": "00:00:22.260",
+            "End time": "00:00:22.650"
+        },
+        {
+            "Code": "AU18",
+            "Duration (s)": 1.26,
+            "Start time": "00:00:22.260",
+            "End time": "00:00:23.520"
+        },
+        {
+            "Code": "VC72R",
+            "Duration (s)": 2.09,
+            "Start time": "00:00:22.290",
+            "End time": "00:00:24.380"
+        },
+        {
+            "Code": "VC71R",
+            "Duration (s)": 2.09,
+            "Start time": "00:00:22.290",
+            "End time": "00:00:24.380"
+        },
+        {
+            "Code": "VC70R",
+            "Duration (s)": 2.09,
+            "Start time": "00:00:22.290",
+            "End time": "00:00:24.380"
+        },
+        {
+            "Code": "AU113L",
+            "Duration (s)": 0.2,
+            "Start time": "00:00:22.510",
+            "End time": "00:00:22.710"
+        },
+        {
+            "Code": "AD58",
+            "Duration (s)": 0.45,
+            "Start time": "00:00:22.580",
+            "End time": "00:00:23.030"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.15,
+            "Start time": "00:00:22.670",
+            "End time": "00:00:22.820"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.24,
+            "Start time": "00:00:22.890",
+            "End time": "00:00:23.130"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.38,
+            "Start time": "00:00:23.130",
+            "End time": "00:00:23.510"
+        },
+        {
+            "Code": "AD58",
+            "Duration (s)": 0.2,
+            "Start time": "00:00:23.280",
+            "End time": "00:00:23.480"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.29,
+            "Start time": "00:00:23.640",
+            "End time": "00:00:23.930"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.3,
+            "Start time": "00:00:23.760",
+            "End time": "00:00:24.060"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.26,
+            "Start time": "00:00:23.920",
+            "End time": "00:00:24.180"
+        },
+        {
+            "Code": "AD54",
+            "Duration (s)": 0.48,
+            "Start time": "00:00:24.190",
+            "End time": "00:00:24.670"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.24,
+            "Start time": "00:00:24.310",
+            "End time": "00:00:24.550"
+        },
+        {
+            "Code": "VC72",
+            "Duration (s)": 0.58,
+            "Start time": "00:00:24.390",
+            "End time": "00:00:24.970"
+        },
+        {
+            "Code": "AD53",
+            "Duration (s)": 0.73,
+            "Start time": "00:00:24.750",
+            "End time": "00:00:25.480"
+        },
+        {
+            "Code": "VC72R",
+            "Duration (s)": 4.91,
+            "Start time": "00:00:24.970",
+            "End time": "00:00:29.880"
+        },
+        {
+            "Code": "VC71R",
+            "Duration (s)": 4.91,
+            "Start time": "00:00:24.970",
+            "End time": "00:00:29.880"
+        },
+        {
+            "Code": "VC70R",
+            "Duration (s)": 4.91,
+            "Start time": "00:00:24.970",
+            "End time": "00:00:29.880"
+        },
+        {
+            "Code": "AU18",
+            "Duration (s)": 4.75,
+            "Start time": "00:00:24.990",
+            "End time": "00:00:29.740"
+        },
+        {
+            "Code": "AD54",
+            "Duration (s)": 0.42,
+            "Start time": "00:00:25.460",
+            "End time": "00:00:25.880"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.46,
+            "Start time": "00:00:25.530",
+            "End time": "00:00:26.990"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.32,
+            "Start time": "00:00:26.400",
+            "End time": "00:00:26.720"
+        },
+        {
+            "Code": "AU16",
+            "Duration (s)": 0.26,
+            "Start time": "00:00:26.860",
+            "End time": "00:00:27.120"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.21,
+            "Start time": "00:00:27.000",
+            "End time": "00:00:27.210"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.63,
+            "Start time": "00:00:27.040",
+            "End time": "00:00:27.670"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 0.66,
+            "Start time": "00:00:27.060",
+            "End time": "00:00:27.720"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.65,
+            "Start time": "00:00:27.210",
+            "End time": "00:00:27.860"
+        },
+        {
+            "Code": "AU16",
+            "Duration (s)": 0.33,
+            "Start time": "00:00:27.240",
+            "End time": "00:00:27.570"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 1.11,
+            "Start time": "00:00:27.670",
+            "End time": "00:00:28.780"
+        },
+        {
+            "Code": "AD57",
+            "Duration (s)": 0.75,
+            "Start time": "00:00:27.720",
+            "End time": "00:00:28.470"
+        },
+        {
+            "Code": "AD38",
+            "Duration (s)": 0.74,
+            "Start time": "00:00:27.790",
+            "End time": "00:00:28.530"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.6,
+            "Start time": "00:00:27.940",
+            "End time": "00:00:28.540"
+        },
+        {
+            "Code": "EAD101",
+            "Duration (s)": 0.49,
+            "Start time": "00:00:28.200",
+            "End time": "00:00:28.690"
+        },
+        {
+            "Code": "AD58",
+            "Duration (s)": 0.37,
+            "Start time": "00:00:28.510",
+            "End time": "00:00:28.880"
+        },
+        {
+            "Code": "AD54",
+            "Duration (s)": 0.66,
+            "Start time": "00:00:28.890",
+            "End time": "00:00:29.550"
+        },
+        {
+            "Code": "AU145",
+            "Duration (s)": 0.39,
+            "Start time": "00:00:28.960",
+            "End time": "00:00:29.350"
+        },
+        {
+            "Code": "EAD104",
+            "Duration (s)": 0.71,
+            "Start time": "00:00:29.000",
+            "End time": "00:00:29.490"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.08,
+            "Start time": "00:00:29.410",
+            "End time": "00:00:29.490"
+        }
+    ],
+    "S10.mp4": [
+        {
+            "Code": "VC72R",
+            "Duration (s)": 29.97,
+            "Start time": "00:00:00.030",
+            "End time": "00:00:30.000"
+        },
+        {
+            "Code": "VC71R",
+            "Duration (s)": 29.97,
+            "Start time": "00:00:00.030",
+            "End time": "00:00:30.000"
+        },
+        {
+            "Code": "VC70R",
+            "Duration (s)": 29.97,
+            "Start time": "00:00:00.030",
+            "End time": "00:00:30.000"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.64,
+            "Start time": "00:00:02.960",
+            "End time": "00:00:03.600"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.73,
+            "Start time": "00:00:03.740",
+            "End time": "00:00:04.470"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.56,
+            "Start time": "00:00:04.100",
+            "End time": "00:00:04.660"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.29,
+            "Start time": "00:00:04.720",
+            "End time": "00:00:05.010"
+        },
+        {
+            "Code": "AU18",
+            "Duration (s)": 0.18,
+            "Start time": "00:00:06.030",
+            "End time": "00:00:06.210"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.49,
+            "Start time": "00:00:06.060",
+            "End time": "00:00:07.550"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.44,
+            "Start time": "00:00:07.830",
+            "End time": "00:00:08.270"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.67,
+            "Start time": "00:00:08.600",
+            "End time": "00:00:09.270"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.4,
+            "Start time": "00:00:08.930",
+            "End time": "00:00:10.330"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.66,
+            "Start time": "00:00:09.830",
+            "End time": "00:00:10.490"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.66,
+            "Start time": "00:00:10.910",
+            "End time": "00:00:11.570"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.42,
+            "Start time": "00:00:11.900",
+            "End time": "00:00:12.320"
+        },
+        {
+            "Code": "AU145",
+            "Duration (s)": 0.27,
+            "Start time": "00:00:12.150",
+            "End time": "00:00:12.420"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 10.0,
+            "Start time": "00:00:12.400",
+            "End time": "00:00:22.400"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.51,
+            "Start time": "00:00:12.500",
+            "End time": "00:00:13.010"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.63,
+            "Start time": "00:00:13.990",
+            "End time": "00:00:14.620"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.87,
+            "Start time": "00:00:16.329",
+            "End time": "00:00:17.200"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 1.39,
+            "Start time": "00:00:19.420",
+            "End time": "00:00:20.810"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 1.01,
+            "Start time": "00:00:20.920",
+            "End time": "00:00:21.930"
+        },
+        {
+            "Code": "AU145",
+            "Duration (s)": 0.36,
+            "Start time": "00:00:22.530",
+            "End time": "00:00:22.890"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.97,
+            "Start time": "00:00:22.540",
+            "End time": "00:00:23.510"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.18,
+            "Start time": "00:00:22.800",
+            "End time": "00:00:23.980"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.53,
+            "Start time": "00:00:23.830",
+            "End time": "00:00:24.360"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.3,
+            "Start time": "00:00:24.760",
+            "End time": "00:00:25.060"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.43,
+            "Start time": "00:00:24.860",
+            "End time": "00:00:25.290"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.73,
+            "Start time": "00:00:25.090",
+            "End time": "00:00:25.820"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 3.38,
+            "Start time": "00:00:25.250",
+            "End time": "00:00:28.630"
+        },
+        {
+            "Code": "AD57",
+            "Duration (s)": 0.74,
+            "Start time": "00:00:25.830",
+            "End time": "00:00:26.570"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.29,
+            "Start time": "00:00:27.790",
+            "End time": "00:00:28.080"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.79,
+            "Start time": "00:00:27.900",
+            "End time": "00:00:28.690"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 1.25,
+            "Start time": "00:00:28.560",
+            "End time": "00:00:29.810"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.42,
+            "Start time": "00:00:28.670",
+            "End time": "00:00:29.091"
+        }
+    ],
+    "S11.mp4": [
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.98,
+            "Start time": "00:00:00.010",
+            "End time": "00:00:00.990"
+        },
+        {
+            "Code": "VC72R",
+            "Duration (s)": 23.25,
+            "Start time": "00:00:00.010",
+            "End time": "00:00:23.260"
+        },
+        {
+            "Code": "VC71R",
+            "Duration (s)": 23.25,
+            "Start time": "00:00:00.010",
+            "End time": "00:00:23.260"
+        },
+        {
+            "Code": "VC70R",
+            "Duration (s)": 23.25,
+            "Start time": "00:00:00.010",
+            "End time": "00:00:23.260"
+        },
+        {
+            "Code": "AD53",
+            "Duration (s)": 0.64,
+            "Start time": "00:00:00.030",
+            "End time": "00:00:00.670"
+        },
+        {
+            "Code": "AUH13L",
+            "Duration (s)": 0.79,
+            "Start time": "00:00:00.330",
+            "End time": "00:00:01.120"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.54,
+            "Start time": "00:00:00.410",
+            "End time": "00:00:00.950"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.37,
+            "Start time": "00:00:00.740",
+            "End time": "00:00:01.110"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.11,
+            "Start time": "00:00:01.030",
+            "End time": "00:00:01.140"
+        },
+        {
+            "Code": "AD81",
+            "Duration (s)": 1.31,
+            "Start time": "00:00:01.040",
+            "End time": "00:00:02.350"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.38,
+            "Start time": "00:00:01.080",
+            "End time": "00:00:01.460"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.04,
+            "Start time": "00:00:01.130",
+            "End time": "00:00:02.170"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 1.73,
+            "Start time": "00:00:01.140",
+            "End time": "00:00:02.870"
+        },
+        {
+            "Code": "AU145",
+            "Duration (s)": 0.37,
+            "Start time": "00:00:02.180",
+            "End time": "00:00:02.550"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 1.53,
+            "Start time": "00:00:02.210",
+            "End time": "00:00:03.740"
+        },
+        {
+            "Code": "AU47",
+            "Duration (s)": 0.29,
+            "Start time": "00:00:02.760",
+            "End time": "00:00:03.050"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.63,
+            "Start time": "00:00:02.890",
+            "End time": "00:00:03.520"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.47,
+            "Start time": "00:00:03.100",
+            "End time": "00:00:03.570"
+        },
+        {
+            "Code": "AU145",
+            "Duration (s)": 0.32,
+            "Start time": "00:00:03.590",
+            "End time": "00:00:03.910"
+        },
+        {
+            "Code": "AD53",
+            "Duration (s)": 0.57,
+            "Start time": "00:00:03.690",
+            "End time": "00:00:04.260"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 1.3,
+            "Start time": "00:00:03.840",
+            "End time": "00:00:05.140"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 0.25,
+            "Start time": "00:00:03.900",
+            "End time": "00:00:04.150"
+        },
+        {
+            "Code": "AU47",
+            "Duration (s)": 0.28,
+            "Start time": "00:00:04.210",
+            "End time": "00:00:04.490"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.51,
+            "Start time": "00:00:04.520",
+            "End time": "00:00:05.030"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 8.08,
+            "Start time": "00:00:05.230",
+            "End time": "00:00:13.310"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.75,
+            "Start time": "00:00:05.420",
+            "End time": "00:00:06.170"
+        },
+        {
+            "Code": "AD54",
+            "Duration (s)": 2.23,
+            "Start time": "00:00:07.000",
+            "End time": "00:00:09.230"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 0.44,
+            "Start time": "00:00:07.390",
+            "End time": "00:00:07.830"
+        },
+        {
+            "Code": "AUH13L",
+            "Duration (s)": 0.33,
+            "Start time": "00:00:07.970",
+            "End time": "00:00:08.300"
+        },
+        {
+            "Code": "AD81",
+            "Duration (s)": 4.22,
+            "Start time": "00:00:09.290",
+            "End time": "00:00:13.510"
+        },
+        {
+            "Code": "AD19",
+            "Duration (s)": 0.25,
+            "Start time": "00:00:11.430",
+            "End time": "00:00:11.680"
+        },
+        {
+            "Code": "AD19",
+            "Duration (s)": 0.39,
+            "Start time": "00:00:12.770",
+            "End time": "00:00:13.160"
+        },
+        {
+            "Code": "AU145L",
+            "Duration (s)": 0.31,
+            "Start time": "00:00:13.300",
+            "End time": "00:00:13.610"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 1.58,
+            "Start time": "00:00:13.370",
+            "End time": "00:00:14.950"
+        },
+        {
+            "Code": "AUH13L",
+            "Duration (s)": 0.47,
+            "Start time": "00:00:13.650",
+            "End time": "00:00:14.120"
+        },
+        {
+            "Code": "AD81",
+            "Duration (s)": 5.93,
+            "Start time": "00:00:13.930",
+            "End time": "00:00:19.860"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 1.44,
+            "Start time": "00:00:13.990",
+            "End time": "00:00:15.430"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.25,
+            "Start time": "00:00:14.060",
+            "End time": "00:00:14.310"
+        },
+        {
+            "Code": "AD19",
+            "Duration (s)": 0.45,
+            "Start time": "00:00:15.160",
+            "End time": "00:00:15.610"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 2.52,
+            "Start time": "00:00:15.930",
+            "End time": "00:00:18.450"
+        },
+        {
+            "Code": "AD19",
+            "Duration (s)": 0.21,
+            "Start time": "00:00:16.090",
+            "End time": "00:00:16.300"
+        },
+        {
+            "Code": "AD38",
+            "Duration (s)": 0.58,
+            "Start time": "00:00:17.540",
+            "End time": "00:00:18.120"
+        },
+        {
+            "Code": "AU47L",
+            "Duration (s)": 0.32,
+            "Start time": "00:00:18.440",
+            "End time": "00:00:18.760"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 0.39,
+            "Start time": "00:00:18.570",
+            "End time": "00:00:18.960"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 2.5,
+            "Start time": "00:00:18.770",
+            "End time": "00:00:21.270"
+        },
+        {
+            "Code": "AD53",
+            "Duration (s)": 0.57,
+            "Start time": "00:00:19.690",
+            "End time": "00:00:20.260"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.42,
+            "Start time": "00:00:20.020",
+            "End time": "00:00:20.440"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.46,
+            "Start time": "00:00:20.470",
+            "End time": "00:00:20.930"
+        },
+        {
+            "Code": "AD58",
+            "Duration (s)": 0.67,
+            "Start time": "00:00:21.170",
+            "End time": "00:00:21.840"
+        },
+        {
+            "Code": "AU145",
+            "Duration (s)": 0.32,
+            "Start time": "00:00:21.340",
+            "End time": "00:00:21.660"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.19,
+            "Start time": "00:00:21.420",
+            "End time": "00:00:22.610"
+        },
+        {
+            "Code": "AU47",
+            "Duration (s)": 0.31,
+            "Start time": "00:00:22.610",
+            "End time": "00:00:22.920"
+        },
+        {
+            "Code": "AD38",
+            "Duration (s)": 1.37,
+            "Start time": "00:00:22.790",
+            "End time": "00:00:24.160"
+        },
+        {
+            "Code": "AD51",
+            "Duration (s)": 0.91,
+            "Start time": "00:00:22.900",
+            "End time": "00:00:23.810"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.28,
+            "Start time": "00:00:22.930",
+            "End time": "00:00:24.210"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.88,
+            "Start time": "00:00:23.620",
+            "End time": "00:00:24.500"
+        },
+        {
+            "Code": "AU145",
+            "Duration (s)": 0.41,
+            "Start time": "00:00:24.170",
+            "End time": "00:00:24.580"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 0.65,
+            "Start time": "00:00:24.240",
+            "End time": "00:00:24.890"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 5.52,
+            "Start time": "00:00:24.410",
+            "End time": "00:00:29.930"
+        },
+        {
+            "Code": "VC72R",
+            "Duration (s)": 5.62,
+            "Start time": "00:00:24.460",
+            "End time": "00:00:30.080"
+        },
+        {
+            "Code": "VC71R",
+            "Duration (s)": 5.62,
+            "Start time": "00:00:24.460",
+            "End time": "00:00:30.080"
+        },
+        {
+            "Code": "VC70R",
+            "Duration (s)": 5.62,
+            "Start time": "00:00:24.460",
+            "End time": "00:00:30.080"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 1.18,
+            "Start time": "00:00:24.800",
+            "End time": "00:00:25.980"
+        },
+        {
+            "Code": "AD81",
+            "Duration (s)": 2.13,
+            "Start time": "00:00:24.980",
+            "End time": "00:00:27.110"
+        },
+        {
+            "Code": "AD38",
+            "Duration (s)": 0.54,
+            "Start time": "00:00:26.620",
+            "End time": "00:00:27.160"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.36,
+            "Start time": "00:00:26.800",
+            "End time": "00:00:27.160"
+        },
+        {
+            "Code": "AD38",
+            "Duration (s)": 0.85,
+            "Start time": "00:00:27.210",
+            "End time": "00:00:28.060"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.77,
+            "Start time": "00:00:27.230",
+            "End time": "00:00:28.000"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.49,
+            "Start time": "00:00:29.590",
+            "End time": "00:00:30.080"
+        }
+    ],
+    "S12.mp4": [
+        {
+            "Code": "VC72",
+            "Duration (s)": 12.11,
+            "Start time": "00:00:00.040",
+            "End time": "00:00:12.150"
+        },
+        {
+            "Code": "VC71R",
+            "Duration (s)": 12.11,
+            "Start time": "00:00:00.040",
+            "End time": "00:00:12.150"
+        },
+        {
+            "Code": "VC70R",
+            "Duration (s)": 12.11,
+            "Start time": "00:00:00.040",
+            "End time": "00:00:12.150"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 2.08,
+            "Start time": "00:00:00.070",
+            "End time": "00:00:02.150"
+        },
+        {
+            "Code": "AD57",
+            "Duration (s)": 0.28,
+            "Start time": "00:00:00.090",
+            "End time": "00:00:00.370"
+        },
+        {
+            "Code": "AD53",
+            "Duration (s)": 0.47,
+            "Start time": "00:00:00.380",
+            "End time": "00:00:00.850"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.33,
+            "Start time": "00:00:01.030",
+            "End time": "00:00:01.360"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 0.85,
+            "Start time": "00:00:02.160",
+            "End time": "00:00:03.010"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.85,
+            "Start time": "00:00:02.160",
+            "End time": "00:00:03.010"
+        },
+        {
+            "Code": "EAD101R",
+            "Duration (s)": 0.44,
+            "Start time": "00:00:02.230",
+            "End time": "00:00:02.670"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.55,
+            "Start time": "00:00:03.010",
+            "End time": "00:00:03.560"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 9.28,
+            "Start time": "00:00:03.230",
+            "End time": "00:00:12.480"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 1.96,
+            "Start time": "00:00:03.910",
+            "End time": "00:00:05.870"
+        },
+        {
+            "Code": "AUH13L",
+            "Duration (s)": 1.27,
+            "Start time": "00:00:04.580",
+            "End time": "00:00:05.850"
+        },
+        {
+            "Code": "AU145",
+            "Duration (s)": 0.32,
+            "Start time": "00:00:05.720",
+            "End time": "00:00:06.040"
+        },
+        {
+            "Code": "AUH13L",
+            "Duration (s)": 6.02,
+            "Start time": "00:00:06.250",
+            "End time": "00:00:12.270"
+        },
+        {
+            "Code": "AU24",
+            "Duration (s)": 0.8,
+            "Start time": "00:00:06.340",
+            "End time": "00:00:07.140"
+        },
+        {
+            "Code": "AU113L",
+            "Duration (s)": 0.36,
+            "Start time": "00:00:08.380",
+            "End time": "00:00:08.740"
+        },
+        {
+            "Code": "AD38L",
+            "Duration (s)": 2.36,
+            "Start time": "00:00:09.060",
+            "End time": "00:00:11.420"
+        },
+        {
+            "Code": "EAD101L",
+            "Duration (s)": 0.45,
+            "Start time": "00:00:09.400",
+            "End time": "00:00:09.850"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.7,
+            "Start time": "00:00:09.900",
+            "End time": "00:00:10.600"
+        },
+        {
+            "Code": "AU17",
+            "Duration (s)": 0.31,
+            "Start time": "00:00:11.270",
+            "End time": "00:00:11.580"
+        },
+        {
+            "Code": "AD54",
+            "Duration (s)": 0.63,
+            "Start time": "00:00:12.270",
+            "End time": "00:00:12.900"
+        },
+        {
+            "Code": "VC73",
+            "Duration (s)": 0.39,
+            "Start time": "00:00:12.650",
+            "End time": "00:00:13.040"
+        },
+        {
+            "Code": "AD53",
+            "Duration (s)": 1.6,
+            "Start time": "00:00:12.890",
+            "End time": "00:00:14.490"
+        },
+        {
+            "Code": "AD57",
+            "Duration (s)": 0.43,
+            "Start time": "00:00:13.150",
+            "End time": "00:00:13.580"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.43,
+            "Start time": "00:00:13.250",
+            "End time": "00:00:13.680"
+        },
+        {
+            "Code": "VC72",
+            "Duration (s)": 0.46,
+            "Start time": "00:00:13.270",
+            "End time": "00:00:13.730"
+        },
+        {
+            "Code": "AD58",
+            "Duration (s)": 0.3,
+            "Start time": "00:00:13.580",
+            "End time": "00:00:13.880"
+        },
+        {
+            "Code": "AD57",
+            "Duration (s)": 0.51,
+            "Start time": "00:00:13.930",
+            "End time": "00:00:14.440"
+        },
+        {
+            "Code": "AD38",
+            "Duration (s)": 3.31,
+            "Start time": "00:00:14.110",
+            "End time": "00:00:17.420"
+        },
+        {
+            "Code": "AU5",
+            "Duration (s)": 0.58,
+            "Start time": "00:00:14.560",
+            "End time": "00:00:15.140"
+        },
+        {
+            "Code": "AD58",
+            "Duration (s)": 0.35,
+            "Start time": "00:00:14.650",
+            "End time": "00:00:15.000"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 2.19,
+            "Start time": "00:00:15.140",
+            "End time": "00:00:17.330"
+        },
+        {
+            "Code": "AU47",
+            "Duration (s)": 0.32,
+            "Start time": "00:00:16.590",
+            "End time": "00:00:16.910"
+        },
+        {
+            "Code": "AU5",
+            "Duration (s)": 0.57,
+            "Start time": "00:00:16.820",
+            "End time": "00:00:17.390"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.57,
+            "Start time": "00:00:16.820",
+            "End time": "00:00:17.390"
+        },
+        {
+            "Code": "AU47",
+            "Duration (s)": 0.34,
+            "Start time": "00:00:17.400",
+            "End time": "00:00:17.740"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 1.2,
+            "Start time": "00:00:17.610",
+            "End time": "00:00:18.810"
+        },
+        {
+            "Code": "AD38",
+            "Duration (s)": 1.92,
+            "Start time": "00:00:18.540",
+            "End time": "00:00:20.460"
+        },
+        {
+            "Code": "AU145",
+            "Duration (s)": 0.42,
+            "Start time": "00:00:18.820",
+            "End time": "00:00:19.240"
+        },
+        {
+            "Code": "AD57",
+            "Duration (s)": 0.6,
+            "Start time": "00:00:18.980",
+            "End time": "00:00:19.580"
+        },
+        {
+            "Code": "AU5L",
+            "Duration (s)": 0.85,
+            "Start time": "00:00:19.230",
+            "End time": "00:00:20.080"
+        },
+        {
+            "Code": "AD1L",
+            "Duration (s)": 0.85,
+            "Start time": "00:00:19.230",
+            "End time": "00:00:20.080"
+        },
+        {
+            "Code": "AU47R",
+            "Duration (s)": 0.27,
+            "Start time": "00:00:19.940",
+            "End time": "00:00:20.210"
+        },
+        {
+            "Code": "AU47",
+            "Duration (s)": 0.39,
+            "Start time": "00:00:20.430",
+            "End time": "00:00:20.820"
+        },
+        {
+            "Code": "EAD104R",
+            "Duration (s)": 0.52,
+            "Start time": "00:00:20.770",
+            "End time": "00:00:21.290"
+        },
+        {
+            "Code": "AD38",
+            "Duration (s)": 0.91,
+            "Start time": "00:00:21.600",
+            "End time": "00:00:22.510"
+        },
+        {
+            "Code": "AD52",
+            "Duration (s)": 2.04,
+            "Start time": "00:00:22.000",
+            "End time": "00:00:24.040"
+        },
+        {
+            "Code": "AU145",
+            "Duration (s)": 0.51,
+            "Start time": "00:00:22.250",
+            "End time": "00:00:22.760"
+        },
+        {
+            "Code": "AU101",
+            "Duration (s)": 0.95,
+            "Start time": "00:00:22.610",
+            "End time": "00:00:23.560"
+        },
+        {
+            "Code": "VC71R",
+            "Duration (s)": 8.14,
+            "Start time": "00:00:22.660",
+            "End time": "00:00:30.800"
+        },
+        {
+            "Code": "VC70R",
+            "Duration (s)": 8.14,
+            "Start time": "00:00:22.660",
+            "End time": "00:00:30.800"
+        },
+        {
+            "Code": "VC72R",
+            "Duration (s)": 8.14,
+            "Start time": "00:00:22.660",
+            "End time": "00:00:30.800"
+        },
+        {
+            "Code": "AU47",
+            "Duration (s)": 0.56,
+            "Start time": "00:00:23.420",
+            "End time": "00:00:23.980"
+        },
+        {
+            "Code": "AD38",
+            "Duration (s)": 1.51,
+            "Start time": "00:00:23.590",
+            "End time": "00:00:25.100"
+        },
+        {
+            "Code": "EAD104L",
+            "Duration (s)": 0.66,
+            "Start time": "00:00:23.790",
+            "End time": "00:00:24.450"
+        },
+        {
+            "Code": "AU101L",
+            "Duration (s)": 6.93,
+            "Start time": "00:00:23.870",
+            "End time": "00:00:30.800"
+        },
+        {
+            "Code": "AD54",
+            "Duration (s)": 0.63,
+            "Start time": "00:00:24.020",
+            "End time": "00:00:24.650"
+        },
+        {
+            "Code": "AU113L",
+            "Duration (s)": 0.28,
+            "Start time": "00:00:24.660",
+            "End time": "00:00:24.940"
+        },
+        {
+            "Code": "AD38",
+            "Duration (s)": 1.68,
+            "Start time": "00:00:26.630",
+            "End time": "00:00:28.310"
+        },
+        {
+            "Code": "Upper lip movement, uncodable",
+            "Duration (s)": 0.36,
+            "Start time": "00:00:28.930",
+            "End time": "00:00:29.290"
+        },
+        {
+            "Code": "AU113L",
+            "Duration (s)": 0.28,
+            "Start time": "00:00:29.370",
+            "End time": "00:00:29.650"
+        },
+        {
+            "Code": "AD38",
+            "Duration (s)": 0.63,
+            "Start time": "00:00:30.170",
+            "End time": "00:00:30.800"
+        }
+    ]
+}
