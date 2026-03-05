@@ -295,3 +295,4 @@ CleanAnEquinePainFaceDataset/videos/S10.mp4 filter=lfs diff=lfs merge=lfs -text
 CleanAnEquinePainFaceDataset/videos/S12.mp4 filter=lfs diff=lfs merge=lfs -text
 CleanAnEquinePainFaceDataset/videos/S4.mp4 filter=lfs diff=lfs merge=lfs -text
 CleanAnEquinePainFaceDataset/videos/S9.mp4 filter=lfs diff=lfs merge=lfs -text
+CleanAnEquinePainFaceDataset/test filter=lfs diff=lfs merge=lfs -text

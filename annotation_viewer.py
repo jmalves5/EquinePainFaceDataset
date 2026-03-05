@@ -98,6 +98,7 @@ class AnnotationViewer:
         self.video_label.pack(side=tk.LEFT)
         
         ttk.Button(info_frame, text="Export JSON", command=self.export_json).pack(side=tk.RIGHT, padx=5)
+        ttk.Button(info_frame, text="Dump All Clips", command=self.dump_all_clips).pack(side=tk.RIGHT, padx=5)
         ttk.Button(info_frame, text="Load JSON", command=self.reload_json).pack(side=tk.RIGHT, padx=5)
         
         self.annotation_count_label = ttk.Label(info_frame, text="", font=("Arial", 10))
@@ -631,6 +632,233 @@ class AnnotationViewer:
             self.load_annotations()
         else:
             messagebox.showinfo("Cancelled", "No new file loaded. Previous data cleared.")
+    
+    def dump_all_clips(self):
+        """Dump all video clips based on current annotations"""
+        import subprocess
+        from tkinter import filedialog
+        
+        if not self.edited_annotations:
+            messagebox.showerror("Error", "No annotations loaded")
+            return
+        
+        if not self.videos_path or not self.videos_path.exists():
+            messagebox.showerror("Error", f"Videos folder not found: {self.videos_path}")
+            return
+        
+        # Group annotations by class first to show available classes
+        clips_by_class = {}
+        for video_name, annotations in self.edited_annotations.items():
+            for ann in annotations:
+                cls = self.get_annotation_class(ann['Code'])
+                if cls not in clips_by_class:
+                    clips_by_class[cls] = []
+                clips_by_class[cls].append((video_name, ann))
+        
+        # Create class selection dialog
+        selection_window = tk.Toplevel(self.root)
+        selection_window.title("Select Classes to Export")
+        selection_window.geometry("400x500")
+        selection_window.transient(self.root)
+        selection_window.grab_set()
+        
+        ttk.Label(selection_window, text="Select classes to export as clips:", 
+                  font=("Arial", 12, "bold")).pack(pady=10)
+        
+        # Frame for checkboxes
+        checkbox_frame = ttk.Frame(selection_window)
+        checkbox_frame.pack(fill=tk.BOTH, expand=True, padx=20, pady=10)
+        
+        # Create scrollable area
+        canvas = tk.Canvas(checkbox_frame)
+        scrollbar = ttk.Scrollbar(checkbox_frame, orient="vertical", command=canvas.yview)
+        scrollable_frame = ttk.Frame(canvas)
+        
+        scrollable_frame.bind(
+            "<Configure>",
+            lambda e: canvas.configure(scrollregion=canvas.bbox("all"))
+        )
+        
+        canvas.create_window((0, 0), window=scrollable_frame, anchor="nw")
+        canvas.configure(yscrollcommand=scrollbar.set)
+        
+        canvas.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
+        scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
+        
+        # Create checkboxes for each class
+        class_vars = {}
+        for cls in sorted(clips_by_class.keys()):
+            var = tk.BooleanVar(value=True)
+            class_vars[cls] = var
+            clip_count = len(clips_by_class[cls])
+            cb = ttk.Checkbutton(
+                scrollable_frame, 
+                text=f"{cls} ({clip_count} clips)",
+                variable=var
+            )
+            cb.pack(anchor=tk.W, padx=10, pady=2)
+        
+        # Button frame
+        button_frame = ttk.Frame(selection_window)
+        button_frame.pack(fill=tk.X, padx=20, pady=10)
+        
+        ttk.Button(button_frame, text="Select All", 
+                   command=lambda: [var.set(True) for var in class_vars.values()]).pack(side=tk.LEFT, padx=5)
+        ttk.Button(button_frame, text="Deselect All", 
+                   command=lambda: [var.set(False) for var in class_vars.values()]).pack(side=tk.LEFT, padx=5)
+        
+        # Result variable
+        proceed = [False]
+        
+        def on_ok():
+            proceed[0] = True
+            selection_window.destroy()
+        
+        def on_cancel():
+            selection_window.destroy()
+        
+        # OK/Cancel buttons
+        action_frame = ttk.Frame(selection_window)
+        action_frame.pack(fill=tk.X, padx=20, pady=(0, 10))
+        
+        ttk.Button(action_frame, text="Export Selected", command=on_ok).pack(side=tk.RIGHT, padx=5)
+        ttk.Button(action_frame, text="Cancel", command=on_cancel).pack(side=tk.RIGHT, padx=5)
+        
+        # Wait for dialog to close
+        self.root.wait_window(selection_window)
+        
+        if not proceed[0]:
+            return
+        
+        # Filter to only selected classes
+        selected_classes = [cls for cls, var in class_vars.items() if var.get()]
+        
+        if not selected_classes:
+            messagebox.showwarning("No Selection", "No classes selected for export.")
+            return
+        
+        clips_by_class = {cls: clips_by_class[cls] for cls in selected_classes}
+        
+        # Calculate total clips for selected classes
+        total_clips = sum(len(clips) for clips in clips_by_class.values())
+        
+        # Ask user to confirm
+        result = messagebox.askyesno(
+            "Confirm Clip Dump",
+            f"This will create {total_clips} video clips from {len(selected_classes)} selected classes.\n\n"
+            f"Videos path: {self.videos_path}\n"
+            f"Output will be created in folders like 'corrected_CLASS_Clips'\n\n"
+            f"Selected classes: {', '.join(selected_classes)}\n\n"
+            f"This may take several minutes. Continue?"
+        )
+        
+        if not result:
+            return
+        
+        # Determine output base directory (parent of videos_path)
+        output_base = self.videos_path.parent if self.videos_path.parent else self.videos_path
+        
+        # Create output directories
+        output_dirs = {}
+        for cls in clips_by_class.keys():
+            output_dir = output_base / f"corrected_{cls}_Clips"
+            output_dirs[cls] = output_dir
+            try:
+                output_dir.mkdir(parents=True, exist_ok=True)
+            except Exception as e:
+                messagebox.showerror("Error", f"Failed to create directory {output_dir}: {e}")
+                return
+        
+        # Process clips
+        total_processed = 0
+        total_failed = 0
+        
+        # Create progress window
+        progress_window = tk.Toplevel(self.root)
+        progress_window.title("Dumping Clips")
+        progress_window.geometry("500x150")
+        progress_window.transient(self.root)
+        
+        progress_label = ttk.Label(progress_window, text="Processing clips...", font=("Arial", 10))
+        progress_label.pack(pady=10)
+        
+        progress_bar = ttk.Progressbar(progress_window, length=400, mode='determinate')
+        progress_bar.pack(pady=10)
+        progress_bar['maximum'] = total_clips
+        
+        status_label = ttk.Label(progress_window, text="", font=("Arial", 9))
+        status_label.pack(pady=5)
+        
+        progress_window.update()
+        
+        # Process each class
+        for cls, clips in clips_by_class.items():
+            output_dir = output_dirs[cls]
+            clip_index = 0
+            
+            for video_name, ann in clips:
+                # Update progress
+                progress_label.config(text=f"Processing {cls}: {clip_index + 1}/{len(clips)}")
+                status_label.config(text=f"{video_name} - {ann['Code']}")
+                progress_bar['value'] = total_processed
+                progress_window.update()
+                
+                # Get video path
+                video_path = self.videos_path / video_name
+                if not video_path.exists():
+                    print(f"Warning: Video not found: {video_path}")
+                    total_failed += 1
+                    total_processed += 1
+                    continue
+                
+                # Get clip parameters with maximum time precision
+                # Use original time format (HH:MM:SS.mmm) for precision
+                start_time = ann['Start time']
+                end_time = ann['End time']
+                
+                # Output file
+                output_file = output_dir / f"clip_{clip_index}_{ann['Code']}_{video_name}"
+                
+                # Run ffmpeg with precise clipping (decode and re-encode)
+                # Use -ss after -i for frame-accurate seeking with full decode/re-encode
+                try:
+                    subprocess.run(
+                        [
+                            "ffmpeg", "-y",
+                            "-i", str(video_path),
+                            "-ss", start_time,
+                            "-to", end_time,
+                            "-avoid_negative_ts", "make_zero",
+                            str(output_file)
+                        ],
+                        stdout=subprocess.DEVNULL,
+                        stderr=subprocess.DEVNULL,
+                        check=True
+                    )
+                    clip_index += 1
+                except subprocess.CalledProcessError as e:
+                    print(f"Error processing clip {clip_index} from {video_name}: {e}")
+                    total_failed += 1
+                
+                total_processed += 1
+        
+        # Final update
+        progress_bar['value'] = total_clips
+        progress_window.destroy()
+        
+        # Show summary
+        summary = f"Clip dump complete!\n\n"
+        summary += f"Total clips processed: {total_processed}\n"
+        summary += f"Successful: {total_processed - total_failed}\n"
+        if total_failed > 0:
+            summary += f"Failed: {total_failed}\n"
+        summary += f"\nOutput location: {output_base}\n\n"
+        summary += "Folders created:\n"
+        for cls, output_dir in output_dirs.items():
+            clip_count = len(clips_by_class[cls])
+            summary += f"  - {output_dir.name} ({clip_count} clips)\n"
+        
+        messagebox.showinfo("Dump Complete", summary)
     
     def export_json(self):
         """Export edited annotations to a new JSON file"""

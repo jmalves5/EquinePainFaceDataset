@@ -46,14 +46,14 @@ with open(annotations_file_path) as json_file:
                 # print(action_unit['Start time'])
                 # print(action_unit['End time'])
 
-                # Convert start time to frames
-                action_start = str(get_sec(action_unit['Start time']))
-                #action_end = str(get_sec(action_unit['End time']))
-                duration = str(int(math.ceil(action_unit['Duration (s)']))+1)
+                # Use precise time format for frame-accurate clipping
+                start_time = action_unit['Start time']
+                end_time = action_unit['End time']
                 # Clip the file
                 input_file_path = videos_path + video
 
-                subprocess.run(["ffmpeg", "-y", "-ss", action_start, "-i", input_file_path, "-c", "copy", "-t", duration, f"{output_dir}/clip_{i}_{action_unit['Code']}_{video}"])
+                # Use -ss after -i for frame-accurate seeking with full decode/re-encode
+                subprocess.run(["ffmpeg", "-y", "-i", input_file_path, "-ss", start_time, "-to", end_time, "-avoid_negative_ts", "make_zero", f"{output_dir}/clip_{i}_{action_unit['Code']}_{video}"])
                 # create gifs: ffmpeg -i CleanAnEquinePainFaceDataset/EAD_104_Clips/clip_2_EAD104R_S5.mp4  -r 30   -vf scale=1080:-1   -ss 00:00:00 -to 00:00:02   blink.gif
 
                 i = i + 1
